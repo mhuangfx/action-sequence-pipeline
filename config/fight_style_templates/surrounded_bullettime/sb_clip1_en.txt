@@ -1,0 +1,14 @@
+Create a VERTICAL 4x4 storyboard grid (16 panels), each panel a TALL 9:16 portrait cell, with thin black borders and a small bold number 1-16 in the top-left corner of each panel. Minimalist FLAT 2D SILHOUETTE style: a SMALL {{PALETTE_HERO}} silhouette heroine and dark-grey/black silhouette enemies with faint glowing {{PALETTE_ENEMY}} accents ({{OPPONENT_DESC_EN}}), on plain muted desolate ground suggesting {{ENVIRONMENT_EN}}, no fine detail, no faces.
+
+CRITICAL COMPOSITION RULE for every panel: compose for a TALL vertical frame — all action stacked in the CENTER COLUMN of each panel. Subjects centered horizontally; use vertical depth (enemies diving from the top of frame, the heroine leaping up the frame, crashing down, low-angle looking up, high-angle looking down) instead of side-by-side spread. Never place two figures at opposite left/right edges.
+
+A fast surrounded counter-attack fight, escalating to the biggest beat last:
+- Panel 1: heroine centered mid-frame, surrounded — four enemy silhouettes closing in from the depth all around her, one looming above.
+- Panels 2-4: fast normal-speed exchange — she blocks and counters, knocking the first attackers away with {{PALETTE_HERO}} bursts, impacts framed tall, debris flying up.
+- Panels 5-7: enemies dive at her from the TOP of frame; she leaps UP to meet them and strikes them down mid-air.
+- Panels 8-10: she is swarmed — enemies grappling from every side at once, forcing her DOWN the frame to one knee.
+- Panels 11-13: she powers out — her {{PALETTE_HERO}} aura detonates, blasting the grapplers off; she chains rapid strikes up the center column.
+- Panels 14-15: the BIGGEST beat — she slams the ground and releases a huge radial {{PALETTE_HERO}} shockwave that hurls every enemy outward, framed as a tall eruption filling the panel.
+- Panel 16: inside the still-blazing eruption, MANY MORE and BIGGER enemy silhouettes rise from the depth all around — a far larger wave incoming — the heroine centered at the epicenter, ready.
+
+Vary tall-wide / medium / extreme-close framings while keeping the center-column rule. Flat silhouette style only, no realism, no faces, no text other than the panel numbers.

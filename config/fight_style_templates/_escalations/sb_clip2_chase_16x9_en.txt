@@ -1,0 +1,17 @@
+[16:9 DRAFT — orchestrator review before paid gen]
+Create a HORIZONTAL 4x4 storyboard grid (16 panels), WIDE 16:9 cells, thin black borders, a small bold number 1-16 top-left. Minimalist FLAT 2D SILHOUETTE style: a {{PALETTE_HERO}} silhouette heroine in her battle form and a pursuing dark-grey/black enemy silhouette with glowing {{PALETTE_ENEMY}} accents ({{OPPONENT_DESC_EN}}), on plain muted ground suggesting {{ENVIRONMENT_EN}}, no fine detail, no faces.
+
+CRITICAL COMPOSITION RULE: WIDE horizontal frames, a KINETIC CHASE — camera mostly BEHIND or ALONGSIDE the heroine, racing to keep up; heavy motion streaks, strong perspective lines and depth rushing past, the environment whipping by at the edges. Lateral speed across the frame, foreground blur, not a static centered stack.
+
+PANEL 1 — TRANSITION CONTINUITY: reproduce the COMPOSITION of the provided reference image in flat silhouette — the heroine in her battle form, the enemy close behind, exactly as the reference shows. Take ONLY composition and placement; ignore its colors and detail.
+
+Then a high-speed running chase-and-clash through the terrain:
+- Panels 2-4: the heroine breaks into a flat-out run away through the depth, the enemy surging after her, both trailing {{PALETTE_HERO}} / {{PALETTE_ENEMY}} streaks; camera chasing from behind.
+- Panels 5-6: she vaults an obstacle and rounds a tight bend, the camera whipping to follow, the enemy gaining at the far edge.
+- Panels 7-8: she twists mid-run and fires a {{PALETTE_HERO}} blast back over her shoulder; the enemy crashes through it, still coming.
+- Panels 9-11: the chase reverses — she cuts back hard and now CHARGES the enemy, closing the gap across the frame.
+- Panels 12-13: they collide at speed — a fast brutal mid-run exchange, energy spraying laterally.
+- Panels 14-15: she gathers full {{PALETTE_HERO}} power on the move and slams it home, a massive radial explosion blooming wide.
+- Panel 16 — END HOT: freeze on the peak of impact mid-motion, energy at maximum, the heroine driving through.
+
+Vary behind-follow / alongside / extreme-close framings; keep the kinetic chase energy throughout. Flat silhouette only, no realism, no faces, no text other than panel numbers.

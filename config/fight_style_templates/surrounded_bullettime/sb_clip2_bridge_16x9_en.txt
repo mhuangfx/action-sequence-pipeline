@@ -1,0 +1,15 @@
+[16:9 DRAFT — orchestrator review before paid gen]
+Create a HORIZONTAL 4x4 storyboard grid (16 panels), each panel a WIDE 16:9 landscape cell, with thin black borders and a small bold number 1-16 in the top-left corner of each panel. Minimalist FLAT 2D SILHOUETTE style: a {{PALETTE_HERO}} silhouette heroine and dark-grey/black silhouette enemies with faint glowing {{PALETTE_ENEMY}} accents ({{OPPONENT_DESC_EN}}), on plain muted desolate ground suggesting {{ENVIRONMENT_EN}}, no fine detail, no faces.
+
+CRITICAL COMPOSITION RULE for every panel: compose for a WIDE horizontal frame — use the full width and environmental DEPTH. Enemies spread across the width and arrayed into depth encircling the heroine; lateral and depth motion rather than a centered vertical stack. The frozen bullet-time panels especially exploit the width: suspended bodies and debris strung ACROSS the whole frame like constellations.
+
+PANEL 1 — TRANSITION CONTINUITY (echo clip 1's HOT ending): reproduce the COMPOSITION of the provided reference image in flat silhouette — keep the exact placement and pose of the heroine and the ring of larger enemy silhouettes rising around her, as the reference shows, inside the still-blazing eruption. Take ONLY composition and character placement from the reference; ignore its colors and detail. This panel must read as a direct continuation of the previous clip's peak.
+
+Then the fight ESCALATES into a bullet-time finisher against the new, larger wave:
+- Panels 2-5: the bigger elite wave attacks at full speed — larger enemy silhouettes lunging in from both flanks and from the depth at once, one sweeping across the foreground, one charging from the far background; she blocks and counters, impacts spraying laterally.
+- Panels 6-8: ALL the remaining enemies lunge at her AT ONCE from every direction across the frame, converging inward.
+- Panels 9-13: THE BULLET-TIME MOMENT — time freezes mid-lunge: the enemies suspended ABSOLUTELY MOTIONLESS ringed across the full width, debris and sparks hanging frozen in the air spanning the frame like constellations, while SHE ALONE moves — panel 9 wide (everything frozen, she begins to pivot at center), panels 10-12 orbiting closer angles of her winding a single charged {{PALETTE_HERO}} strike between the frozen bodies (frozen sparks streaking past camera), panel 13 extreme close-up of her eyes igniting with {{PALETTE_HERO}} light.
+- Panels 14-15: time SNAPS back — her single strike releases and ALL the suspended enemies are blasted outward simultaneously in one radial shockwave reaching the frame edges.
+- Panel 16: the BIGGEST beat LAST — a huge eruption of {{PALETTE_HERO}} energy blooming wide around her at the epicenter, enemies silhouetted flying outward to the edges, filling the wide frame.
+
+Vary wide-establishing / medium / extreme-close framings while keeping the horizontal depth rule. Flat silhouette style only, no realism, no faces, no text other than the panel numbers.

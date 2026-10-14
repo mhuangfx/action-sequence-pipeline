@@ -1,0 +1,16 @@
+[16:9 DRAFT — orchestrator review before paid gen]
+Create a HORIZONTAL 4x4 storyboard grid (16 panels), each panel a WIDE 16:9 landscape cell, thin black borders, a small bold number 1-16 top-left. Minimalist FLAT 2D SILHOUETTE style: a {{PALETTE_HERO}} silhouette heroine in her battle form and a same-scale dark-grey/black enemy silhouette with glowing {{PALETTE_ENEMY}} accents ({{OPPONENT_DESC_EN}}), on plain muted ground suggesting {{ENVIRONMENT_EN}}, no fine detail, no faces.
+
+CRITICAL COMPOSITION RULE: WIDE horizontal frames using full width and DEPTH (foreground / midground / background, low wide horizon, long shadows), lateral motion across the frame, not centered-stacked.
+
+PANEL 1 — TRANSITION CONTINUITY: reproduce the COMPOSITION of the provided reference image in flat silhouette — keep the heroine in her battle form pressing forward and the enemy reeling, exactly as the reference shows. Take ONLY composition and placement from the reference; ignore its colors and detail.
+
+Then a full open-field power battle at FULL SPEED, evenly matched and relentless:
+- Panels 2-4: the enemy recovers and answers — they trade rapid energy strikes across the width, {{PALETTE_HERO}} vs {{PALETTE_ENEMY}} bursts spraying laterally.
+- Panels 5-7: the enemy gains ground — a sweeping {{PALETTE_ENEMY}} blast drives the heroine skidding to the far edge, dust kicking up.
+- Panels 8-10: she counters — dashes back across the frame, lands a flurry, the enemy knocked into the depth.
+- Panels 11-13: both gather full power at opposite depths, auras flaring huge, the cracked ground spanning between them.
+- Panels 14-15: full-power charge across the frame — both rocket toward center trailing long lateral streaks of {{PALETTE_HERO}} and {{PALETTE_ENEMY}} light, colliding in a massive radial explosion blooming wide.
+- Panel 16 — END HOT: freeze on the peak of the collision, both locked at its core, energy at maximum.
+
+Vary wide / medium / extreme-close framings, horizontal depth rule throughout. Flat silhouette only, no realism, no faces, no text other than panel numbers.

@@ -1,0 +1,20 @@
+{
+  "id": "fixture_treveal_v2_001",
+  "fight_style": "transformation_reveal_v2",
+  "clips": 1,
+  "clip_length": 15,
+  "resolution": "720p",
+  "aspect": "9:16",
+  "prompt_zh": "竖屏9:16，720p，全程统一的全实拍级写实电影渲染。0-4秒：雨夜空旷的城市广场，路灯忽明忽暗，尼莎独自走着、神情平常。4-12秒：她猛地踏地，翠绿藤木自她脚下炸裂而出，荆棘甲片顺她的双腿向上攀爬成形，她的双眼骤燃琥珀金光。12-15秒：光华收束，镜头拉远至全身英雄定格，她居中稳定站立，双手将缠绕荆棘的长柄战刃平举指向广场尽头。",
+  "hero": "Nyssa",
+  "hero_cn": "尼莎",
+  "series": { "name": "AWAKENING", "number": 1 },
+  "axes": {
+    "register": "heroic",
+    "element": "verdant-overgrowth",
+    "incident": "mysterious-figure",
+    "environment": "empty rain-slick city plaza at night",
+    "hero_name_latin": "Nyssa"
+  },
+  "gen_path": "dreamina"
+}

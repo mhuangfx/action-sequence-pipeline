@@ -1,0 +1,16 @@
+[16:9 DRAFT — orchestrator review before paid gen]
+Create a HORIZONTAL 4x4 storyboard grid (16 panels), each panel a WIDE 16:9 landscape cell, with thin black borders and a small bold number 1-16 in the top-left corner of each panel. Minimalist FLAT 2D SILHOUETTE style: a {{PALETTE_HERO}} silhouette heroine and a same-scale dark-grey/black silhouette nemesis with small glowing {{PALETTE_ENEMY}} accents ({{OPPONENT_DESC_EN}}), on plain muted desolate ground suggesting {{ENVIRONMENT_EN}}, no fine detail, no faces.
+
+CRITICAL COMPOSITION RULE for every panel: compose for a WIDE horizontal frame — use the full width and environmental DEPTH. Both fighters readable together, staged across the width and into depth (foreground / midground / background layering, low wide horizon line, long cast shadows). Use lateral motion and scale/depth instead of a centered vertical stack; let the desolate environment sprawl at the edges.
+
+COLD OPEN — lead with the clash at FULL SPEED, then escalate to the finisher. Do NOT open on a slow establishing two-shot, and do NOT open in slow motion / freeze:
+- Panel 1: OPEN AT PEAK, FULL SPEED — heroine and nemesis collide mid-frame in a violent clash, {{PALETTE_HERO}} vs {{PALETTE_ENEMY}} energy bursting at the point of impact, both caught mid-lunge with hard motion streaks and flying sparks. Immediate high-energy action in the very first frame — fast, this is the hook.
+- Panel 2: continue at full speed — the clash blows them apart across the width, the heroine landing in a low ready crouch, the nemesis skidding back into the depth.
+- Panel 3: a fast wide beat reveals the vast arena and both fighters set across the depth, energy flickering, the duel raging on.
+- Panels 4-6: rapid exchange — they trade strikes and parries mid-frame, sparks of {{PALETTE_HERO}} vs {{PALETTE_ENEMY}} spraying laterally.
+- Panels 7-9: the nemesis presses hard — the heroine is knocked skidding sideways, kicks up dust, recovers low at the edge — then the momentum flips as she reads its lunge and answers with rising {{PALETTE_HERO}} counters that stagger it into the background.
+- Panels 10-12: she dominates — chained strikes drive the nemesis across the frame, its silhouette cracking and leaking {{PALETTE_ENEMY}} light.
+- Panels 13-15: the BIGGEST beat — she charges a blazing orb of {{PALETTE_HERO}} power and drives the finishing blow through the nemesis in a huge wide-framed explosion blooming across the panel.
+- Panel 16 — END HOT (carries the win pose for the bridge): the heroine planted forward at the heart of the still-blazing blast, one arm thrust out / raised holding a glowing {{PALETTE_HERO}} orb, the nemesis collapsing into the lingering energy beside her — NOT a calm wide aftermath; energy still at peak. This frame is what the next clip echoes.
+
+Vary wide-establishing / medium / extreme-close framings while keeping the horizontal depth rule. Flat silhouette style only, no realism, no faces, no text other than the panel numbers.

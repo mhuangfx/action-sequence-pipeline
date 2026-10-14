@@ -1,0 +1,32 @@
+{
+ "id": "20260713_aurora_duel_001",
+ "generator": "atlas",
+ "gen_path": "atlas",
+ "char_ref": "characters/char03_aurora/ref_aurora_v2.png",
+ "char_ref_version": "v2",
+ "hero": "aurora",
+ "hero_desc_zh": "圣辉圣骑士形态：天使板甲与流光巨剑，背后展开由发光光丝构成的羽翼，周身环绕金色晨曦光辉，以圣光爆发与巨剑弧光为武器",
+ "casual_opening_zh": "圣地中的寻常一刻——缓步走过古老神殿的静谧殿廊",
+ "casual_opening_en": "an ordinary moment in a sacred place — walking the quiet halls of an ancient temple",
+ "fight_style": "1v1_rival_duel",
+ "opponent": {
+  "mode": "prompt",
+  "key": "blood_knight",
+  "desc_zh": "身披猩红与银白抛光铠甲的骑士，甲缝间渗出猩红能量",
+  "desc_en": "knight in polished crimson-and-silver plate, scarlet energy seeping from the seams",
+  "ref_ts": "0000000000"
+ },
+ "environment": {
+  "desc_en": "storm-wracked highland plateau, lightning splitting the sky, rain-lashed stone",
+  "desc_zh": "雷暴肆虐的高原，闪电撕裂天空，暴雨抽打嶙峋岩石"
+ },
+ "escalation": "bridge_titan",
+ "format": "16:9",
+ "clips": 2,
+ "clip_length": 15,
+ "resolution": "720p",
+ "palette": {
+  "hero": "golden radiant light",
+  "enemy": "blood crimson"
+ }
+}

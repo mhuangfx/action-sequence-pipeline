@@ -1,0 +1,18 @@
+[16:9 DRAFT — orchestrator review before paid gen]
+Create a HORIZONTAL 4x4 storyboard grid (16 panels), each panel a WIDE 16:9 landscape cell, with thin black borders and a small bold number 1-16 in the top-left corner of each panel. Minimalist FLAT 2D SILHOUETTE style: a {{PALETTE_HERO}} silhouette heroine, a small dark FALLEN enemy, and later a MUCH LARGER dark-grey/black COLOSSAL silhouette titan with glowing {{PALETTE_ENEMY}} eye accents, on plain muted desolate ground suggesting {{ENVIRONMENT_EN}}, no fine detail, no faces.
+
+CRITICAL COMPOSITION RULE for every panel: compose for a WIDE horizontal frame — use the full width and environmental DEPTH (foreground / midground / background layering, low wide horizon, long shadows). Stage the action across the width rather than a centered vertical stack. The titan, once formed, is so massive it dominates the background depth and towers over the tiny foreground heroine for extreme scale contrast; frame it with low wide camera angles looking up.
+
+PANEL 1 — TRANSITION CONTINUITY (echo clip 1's HOT ending): reproduce the COMPOSITION of the provided reference image in flat silhouette — keep the exact placement and poses the reference shows (the {{PALETTE_HERO}} heroine in her victorious forward stance with one arm raised holding a glowing orb at the heart of the lingering blast, the defeated dark enemy collapsing beside her). Take ONLY composition and character placement from the reference; ignore its colors and detail. This panel must read as a direct continuation of the previous clip's peak.
+
+Then the titan is BORN from the fallen foe:
+- Panel 2: the fallen dark enemy bursts and dissolves into rising shadow as the ground cracks wide — dark fragments and {{PALETTE_ENEMY}} light surging up and spreading across the frame, still no full figure.
+- Panel 3: a hulking dark mass rises and coalesces out of that erupting shadow, half-formed, spreading across the width.
+- Panel 4: the COLOSSAL titan now FULLY risen and towering, dominating the background depth (several times the heroine's height, broad and hulking), its glowing {{PALETTE_ENEMY}} eyes — the SAME color of eyes as the fallen foe in clip 1 — looming over the tiny foreground heroine; low wide camera looking up.
+- Panels 5-8: the heroine dashes laterally, dives under a sweeping giant arm crashing across the frame, then leaps in and scrambles up the titan's limb toward its head.
+- Panels 9-12: she lands a flurry of rapid {{PALETTE_HERO}} strikes high on the titan, gets swatted and hurled across the frame, then recovers in a crouch at the far side as wide shockwave rings expand.
+{{REVERSAL_CLAUSE_EN}}
+- Panels 13-14: she gathers and charges a massive {{PALETTE_HERO}} energy strike in the foreground while the titan rears up across the background, its {{PALETTE_ENEMY}} power flaring.
+- Panels 15-16: the BIGGEST, most explosive beat saved for LAST — she rockets in and drives the charged blow into the colossus, a huge radial explosion blooming wide and engulfing the final panels.
+
+Vary wide-establishing / medium / extreme-close framings while keeping the horizontal depth rule; once the titan has formed, the dramatic size difference must be clearly readable. Flat silhouette style only, no realism, no faces, no text other than the panel numbers.

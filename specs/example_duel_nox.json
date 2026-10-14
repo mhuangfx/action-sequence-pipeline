@@ -1,0 +1,25 @@
+{
+ "id": "20260611_vesta_duel_001",
+ "hero": "vesta",
+ "hero_desc_zh": "火红长发，黑铁鎏金符文战甲，火焰光晕环绕周身，面颊符文发光，以烈焰为武器（火焰冲击波、熔岩爆炸、烈焰横扫）",
+ "fight_style": "1v1_rival_duel",
+ "opponent": {
+  "mode": "ref",
+  "desc_zh": "全身黑曜石质感、轮廓不断剥离缕缕黑烟，细长的紫色发光眼缝，胸口紫色V形符印发光",
+  "desc_en": "matte obsidian-black humanoid, narrow glowing violet-purple eye-slits, glowing violet chevron sigil on the chest, wisps of dark smoke peeling off its outline",
+  "ref_ts": "0000000000"
+ },
+ "environment": {
+  "desc_en": "wind-eroded ember wasteland, drifting ash and glowing embers in the dust",
+  "desc_zh": "荒芜的余烬战场，风蚀荒漠，余烬与扬尘飞舞"
+ },
+ "escalation": "bridge_titan",
+ "format": "9:16",
+ "clips": 2,
+ "clip_length": 15,
+ "resolution": "720p",
+ "palette": {
+  "hero": "orange fire",
+  "enemy": "violet shadow"
+ }
+}

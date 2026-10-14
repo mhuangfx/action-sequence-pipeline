@@ -1,0 +1,31 @@
+{
+ "id": "20260730_kaelith_awaken_002",
+ "generator": "hailuo",
+ "gen_path": "hailuo",
+ "fight_style": "transformation_reveal_v2",
+ "hero": "kaelith",
+ "hero_cn": "凯莉丝",
+ "series": {
+  "name": "AWAKENING",
+  "number": 8
+ },
+ "clips": 1,
+ "clip_length": 15,
+ "resolution": "720p",
+ "aspect": "9:16",
+ "prompt_zh": "竖屏9:16，720p，全程统一的全实拍级写实电影渲染——真实皮肤、真实布料、真实光影，能量与铠甲皆为电影级视效大片质感的写实特效、打在一个真实人物身上，写实风格从第一帧到最后一帧完全一致，包括变身之后。全片一镜到底、连续不间断，镜头始终锁定在她身上、以她为中心。她的发色与发型自始至终保持不变。0-4秒：雨夜的广场上，灯光忽明忽暗，凯莉丝穿着黑色风衣在徘徊，脚步声渐近，身后传来低沉威胁的气息，她停下脚步转身直面那道阴影。4-12秒（核心：动态变身，仍为一镜到底）：脚下突然涌起翡翠云雾，镜头推至她的双脚与地面接触点，随着她的动作，雾气顺腿攀升凝结成坚硬的铠甲，再上扫掠过拳头，一道弯刃战刀在她掌中凝聚，眼睛燃起柔和亮光，符文点亮，头发衣摆随微风翻飞，身体微微离地，翡翠光芒冲天爆发。这是同一个人的力量觉醒蜕变，五官与身份始终保持一致，绝非换成另一个人，她的人类面容与轮廓自始至终清晰可见。12-15秒：镜头拉远至中景与全身之间，人物占据画面主要高度，广场尽头，凯莉丝居中站立，手持弯刃战刀指向阴影，周围光线昏暗但轮廓分明，翠绿光环轻柔落定，镜头缓移画面静止。",
+ "axes": {
+  "register": "heroic",
+  "shape": null,
+  "element": "jade-mist",
+  "incident_class": "pursuit",
+  "zoom_tour": [
+   "feet-ground",
+   "fist",
+   "weapon-hand"
+  ],
+  "demographics_summary": "lean and wiry, Black features with natural coily hair, wearing a fitted charcoal trench coat over a simple tee, age 18-35",
+  "assembler_seed": 1582697144,
+  "assembler_model": "qwen2.5:14b"
+ }
+}

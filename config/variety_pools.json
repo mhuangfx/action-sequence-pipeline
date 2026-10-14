@@ -1,0 +1,185 @@
+{
+  "_note": "Variety pools for Module D (plan_specs.js). heroes adds planner/prompt metadata on top of config/heroines.json (which stays the asset-id authority). palettes lists hero/enemy color PAIRS that read against each other; the planner only pairs a hero with enemies whose palette forms an allowed pair with that hero's palette. enemies = prompt-mode opponent pool (no ref sheet). Environments are dark-fantasy biomes; desc_en feeds the EN storyboard templates, desc_zh the ZH video templates.",
+  "heroes": {
+    "vesta": {
+      "name_zh": "薇斯塔",
+      "palette": "orange fire",
+      "desc_zh": "火红长发，黑铁鎏金符文战甲，火焰光晕环绕周身，面颊符文发光，以烈焰为武器（火焰冲击波、熔岩爆炸、烈焰横扫）",
+      "casual_opening_en": "an ordinary moment in the wilds — walking a lonely path through wind-worn, ember-lit ruins",
+      "casual_opening_zh": "荒野中的寻常一刻——独自走在风蚀余烬的废墟小径上"
+    },
+    "morta": {
+      "name_zh": "莫尔塔",
+      "palette": "ghost-green wraithfire",
+      "desc_zh": "暗影死神形态：暗影恶魔战甲，手持燃烧幽绿鬼火的长柄镰刀，周身缠绕翻涌暗影与幽绿火光，以横扫的镰刀弧光与暗影爆发为武器",
+      "casual_opening_en": "an ordinary modern moment — a schoolgirl walking a neon-lit night-city street or waiting on a subway platform, an everyday urban commute",
+      "casual_opening_zh": "现代都市的寻常一刻——身着校服走在霓虹夜色的街头、或伫立于地铁站台，如日常通勤"
+    },
+    "aurora": {
+      "name_zh": "奥萝拉",
+      "palette": "golden radiant light",
+      "desc_zh": "圣辉圣骑士形态：天使板甲与流光巨剑，背后展开由发光光丝构成的羽翼，周身环绕金色晨曦光辉，以圣光爆发与巨剑弧光为武器",
+      "casual_opening_en": "an ordinary moment in a sacred place — walking the quiet halls of an ancient temple",
+      "casual_opening_zh": "圣地中的寻常一刻——缓步走过古老神殿的静谧殿廊"
+    },
+    "vyra": {
+      "name_zh": "薇拉",
+      "palette": "ember-orange",
+      "desc_zh": "野性部落龙骑士少女，脏辫缠骨珠与龙牙，脸颊龙鳞部落纹身、眼部黑色战纹，铜色飞行护目镜，身着粗犷兽皮鳞甲，骑乘一头巨大的战龙；龙喉喷吐余烬橙色龙焰",
+      "styles_allowed": ["dragonrider_flythrough", "dragonrider_bullettime"]
+    }
+  },
+  "styles": {
+    "1v1_rival_duel": { "short": "duel", "default_escalation": "bridge_titan" },
+    "dragonrider_flythrough": {
+      "short": "dragonrider",
+      "default_escalation": "aerialboss",
+      "heroes_allowed": ["vyra"],
+      "fixed_environment": {
+        "key": "naval_fleet",
+        "desc_en": "a vast naval battle on a stormy sea, a fleet of tall warships with towering masts and sails at dusk",
+        "desc_zh": "风暴海面上的大规模海战，黄昏时分扬帆林立的高大战船舰队"
+      }
+    },
+    "dragonrider_bullettime": {
+      "short": "dragonbullet",
+      "default_escalation": "aerialfreeze",
+      "heroes_allowed": ["vyra"],
+      "fixed_environment": {
+        "key": "volcanic_skysiege",
+        "desc_en": "a storm-dark sky above an erupting volcanic massif, colossal burning debris, molten boulders and shockwaves hurled up from a titanic eruption below",
+        "desc_zh": "风暴笼罩的天空，下方是喷发的巨型火山群，巨大的燃烧碎块、熔岩巨石与冲击波自下方的剧烈喷发中冲天抛起"
+      }
+    },
+    "surrounded_bullettime": { "short": "bullettime", "default_escalation": "bridge_wave" },
+    "vs_titan_bridge": { "short": "titan", "default_escalation": "bridge_titan" },
+    "one_vs_group_vertical": { "short": "group", "default_escalation": "bridge_horde" },
+    "transformation_reveal": { "short": "transform", "default_escalation": "battle", "escalations": ["battle", "boss", "duel"] },
+    "transformation_reveal_v2": { "short": "awaken", "assembler_style": true, "default_escalation": "none", "_note": "PIVOT SPINE (2026-07-26). Roster-less fresh-hero 15s single-clip transformation reveal. Prompt assembled by tools/assemble_transform_prompt.py (Ollama slot-fill). Does NOT use heroines/palettes/opponents/storyboard — planned by plan_specs' dedicated transform_v2 branch, NOT the hero x style candidate loop (assembler_style excludes it there). NEVER routes to atlas (hailuo/dreamina only)." }
+  },
+  "_retired_styles_note": "transformation_closeup (closeup_variant) RETIRED from rotation 2026-06-30 (owner human-rejection): the arc opened AND closed on an extreme close-up — the opening macro detail was great but the clip lost quality toward the end and the closing close-up didn't match the start detail, breaking the loop/continuity. Definition + templates kept in config/fight_styles.json for history; flagged in output/hypotheses.jsonl.",
+  "_experiment_variants_note": "OPTIONAL flywheel treatments the nightly planner RANDOMLY samples onto eligible videos (NOT applied by default, NOT to all). Each: rate=per-video probability, styles=eligible fight_styles (must carry the template slot), hypothesis_id+delivery_check are stamped so the run is tracked + manipulation-checked AND so human-review outcomes (incl. REJECTION) are attributable to the treatment. plan_specs --reversal-beat forces it on for deliberate runs. See make_video REVERSAL_CLAUSE + fingerprint reversal_beat + analyst variant_review.",
+  "experiment_variants": {
+    "reversal_beat": {
+      "rate": 0.25,
+      "styles": ["vs_titan_bridge"],
+      "hypothesis_id": "ana-reversal-beat",
+      "delivery_check": {
+        "question": "Around the middle of the clip, does the hero briefly appear to be LOSING or overwhelmed (struck down, knocked to a knee, or her power dimming) before turning it around into the finisher?",
+        "expected": "yes",
+        "when": "whole"
+      }
+    }
+  },
+  "environments": [
+    {
+      "key": "ember_wasteland",
+      "desc_en": "wind-eroded ember wasteland, drifting ash and glowing embers in the dust",
+      "desc_zh": "荒芜的余烬战场，风蚀荒漠，余烬与扬尘飞舞"
+    },
+    {
+      "key": "frozen_fjord",
+      "desc_en": "frozen fjord at dusk, cracked ice sheets underfoot, jagged glacial cliffs",
+      "desc_zh": "黄昏的冰封峡湾，脚下冰面龟裂，两侧嶙峋冰崖耸立"
+    },
+    {
+      "key": "drowned_temple",
+      "desc_en": "half-drowned ancient temple, dark waist-deep water, broken sinking pillars",
+      "desc_zh": "半淹没的远古神殿，深暗的及腰积水与断裂下沉的石柱"
+    },
+    {
+      "key": "obsidian_canyon",
+      "desc_en": "obsidian canyon, glassy black rock walls, faint rivers of magma glowing below",
+      "desc_zh": "黑曜石峡谷，乌黑如镜的岩壁，谷底隐隐流淌发光的岩浆"
+    },
+    {
+      "key": "storm_plateau",
+      "desc_en": "storm-wracked highland plateau, lightning splitting the sky, rain-lashed stone",
+      "desc_zh": "雷暴肆虐的高原，闪电撕裂天空，暴雨抽打嶙峋岩石"
+    },
+    {
+      "key": "ruined_city_overgrown",
+      "desc_en": "ruined overgrown city, collapsed towers swallowed by vines and deep moss",
+      "desc_zh": "被藤蔓与厚苔吞没的废墟之城，坍塌的高塔残骸"
+    },
+    {
+      "key": "salt_flats_night",
+      "desc_en": "endless salt flats at night, mirror-thin water reflecting a vast starfield",
+      "desc_zh": "夜晚一望无际的盐沼，薄水如镜，倒映浩瀚星空"
+    },
+    {
+      "key": "volcanic_shore",
+      "desc_en": "black-sand volcanic shore, glowing lava fissures meeting a dark crashing sea",
+      "desc_zh": "黑沙火山海岸，炽红熔岩裂隙没入翻涌的暗色海浪"
+    },
+    {
+      "key": "ancient_library_colossal",
+      "desc_en": "colossal ancient library interior, towering bookshelf cliffs, dust floating in god-rays",
+      "desc_zh": "巨大无比的远古图书馆内部，高耸如崖的书架，光柱中浮尘飞舞"
+    },
+    {
+      "key": "sky_islands",
+      "desc_en": "shattered floating sky islands above a cloud sea, hanging chains and falling waterfalls",
+      "desc_zh": "云海之上的破碎浮空岛，悬垂的巨大锁链与坠落的瀑布"
+    }
+  ],
+  "palettes": [
+    { "hero": "orange fire", "enemy": "icy blue-white" },
+    { "hero": "orange fire", "enemy": "toxic green" },
+    { "hero": "orange fire", "enemy": "silver lightning" },
+    { "hero": "orange fire", "enemy": "molten gold" },
+    { "hero": "ghost-green wraithfire", "enemy": "violet shadow" },
+    { "hero": "ghost-green wraithfire", "enemy": "blood crimson" },
+    { "hero": "ghost-green wraithfire", "enemy": "molten gold" },
+    { "hero": "ghost-green wraithfire", "enemy": "silver lightning" },
+    { "hero": "golden radiant light", "enemy": "violet shadow" },
+    { "hero": "golden radiant light", "enemy": "icy blue-white" },
+    { "hero": "golden radiant light", "enemy": "toxic green" },
+    { "hero": "golden radiant light", "enemy": "blood crimson" },
+    { "hero": "ember-orange", "enemy": "abyssal teal-blue" }
+  ],
+  "enemies": [
+    {
+      "key": "shadow_brute",
+      "palette": "violet shadow",
+      "desc_en": "humanoid of black obsidian and churning shadow, narrow violet glowing eye-slits",
+      "desc_zh": "黑曜石与翻涌暗影构成的人形，细长眼缝透出紫色冷光"
+    },
+    {
+      "key": "frost_revenant",
+      "palette": "icy blue-white",
+      "desc_en": "swordsman of pale glacial ice and white frost-mist, ice-blue glowing eyes, frost trailing off its blade",
+      "desc_zh": "由淡蓝冰晶与白色寒雾构成的剑士，双眼透出冰蓝寒光，刃上拖曳霜雾"
+    },
+    {
+      "key": "plague_stalker",
+      "palette": "toxic green",
+      "desc_en": "long-limbed stalker of pale bone and luminous toxic-green spores, joints seeping toxic-green glow",
+      "desc_zh": "由苍白骨骼与荧光毒孢构成的瘦长猎手，关节缝隙渗出毒绿荧光"
+    },
+    {
+      "key": "blood_knight",
+      "palette": "blood crimson",
+      "desc_en": "knight in polished crimson-and-silver plate, scarlet energy seeping from the seams",
+      "desc_zh": "身披猩红与银白抛光铠甲的骑士，甲缝间渗出猩红能量"
+    },
+    {
+      "key": "gilded_construct",
+      "palette": "molten gold",
+      "desc_en": "colossus construct of pale marble veined with molten gold, molten-gold light flowing between its carved runes",
+      "desc_zh": "由淡色大理石铸成、流淌熔金脉络的傀儡巨像，符文刻痕间流淌熔金光芒"
+    },
+    {
+      "key": "storm_wraith",
+      "palette": "silver lightning",
+      "desc_en": "wraith of roiling pale-silver storm cloud and white lightning, white-hot arcs coiling around its limbs",
+      "desc_zh": "由翻涌的银白雷云与白色闪电构成的幽影，四肢缠绕炽白电弧"
+    },
+    {
+      "key": "abyssal_leviathan",
+      "palette": "abyssal teal-blue",
+      "desc_en": "a colossal abyssal sea-titan rising from the deep — a barnacled leviathan of black stone and drowned bronze, vast tentacled limbs, glowing abyssal teal-blue cracks and eyes",
+      "desc_zh": "自深海崛起的庞大深渊海中巨灵——遍布藤壶的黑石与沉铜之躯，巨大的触臂，透出深蓝海渊光芒的裂隙与双眼"
+    }
+  ]
+}

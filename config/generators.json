@@ -1,0 +1,18 @@
+{
+ "active": "hailuo",
+ "dreamina_fallback_enabled": true,
+ "atlas_fallback_enabled": true,
+ "generators": {
+  "hailuo": {
+   "gen_path": "hailuo"
+  },
+  "dreamina": {
+   "gen_path": "dreamina",
+   "seedance_video_model": "Dreamina Seedance 2.0"
+  },
+  "atlas": {
+   "gen_path": "atlas",
+   "seedance_video_tier": "seedance-2.0"
+  }
+ }
+}

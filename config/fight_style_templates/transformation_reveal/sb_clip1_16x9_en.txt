@@ -1,0 +1,16 @@
+[16:9 DRAFT — orchestrator review before paid gen]
+Create a HORIZONTAL 4x4 storyboard grid (16 panels), each panel a WIDE 16:9 landscape cell, with thin black borders and a small bold number 1-16 in the top-left corner of each panel. Minimalist FLAT 2D SILHOUETTE style: a plain dark-grey/black silhouette heroine in her ORDINARY UNPOWERED form (no aura, no weapon, smaller), who mid-sequence IGNITES into her {{PALETTE_HERO}} POWERED form (glowing aura corona and weapon), against a dark-grey/black threat silhouette with glowing {{PALETTE_ENEMY}} accents ({{OPPONENT_DESC_EN}}), on plain muted desolate ground suggesting {{ENVIRONMENT_EN}}, no fine detail, no faces.
+
+CRITICAL COMPOSITION RULE for every panel: compose for a WIDE horizontal frame — use the full width and environmental DEPTH (foreground / midground / background layering, a low wide horizon, long cast shadows). Stage figures across the width and into depth, not centered-stacked.
+
+THE TURN — open on CASUAL MOTION, transform at the center, end hot. The heroine is already MOVING in the very first frame; do NOT open on a static pose, a standing figure, or a slow establishing shot — then the incident hits fast:
+- Panel 1: the heroine WALKING in plain UNPOWERED silhouette through {{CASUAL_OPENING_EN}} — mid-stride, going about something ordinary, no aura, the camera travelling alongside her. Motion in the first frame, never a standing pose.
+- Panels 2-3: the incident hits FAST — behind her space tears open and the {{ENVIRONMENT_EN}} battle-realm erupts through, the dark {{PALETTE_ENEMY}} threat rising with it; she stops mid-step and turns as it looms.
+- Panels 4-5: she plants her feet as the threat bears down — the last beat before she changes, the air around her beginning to charge with {{PALETTE_HERO}} sparks.
+- Panels 6-9 (THE TURN — the centerpiece): her silhouette DETONATES with {{PALETTE_HERO}} energy blooming wide across the frame; the powered form manifests over her — aura corona flaring, weapon forming, her silhouette growing taller and brighter — a full transformation engulfing the center panels.
+- Panels 10-11: newly powered, she surges at the threat across the frame — the first {{PALETTE_HERO}} strike, the enemy staged in the opposite depth.
+- Panels 12-14: a fast exchange — she presses, lands hits, the threat answers with a sweeping {{PALETTE_ENEMY}} blow, energy spraying laterally.
+- Panel 15: the BIGGEST beat — a massive point-blank {{PALETTE_HERO}} burst blooming wide across the frame, the threat reeling.
+- Panel 16 — END HOT: freeze on the peak of her powered assault, energy at maximum, the heroine driving forward in her transformed form; this hot frame is what the next clip echoes.
+
+Vary wide-establishing / medium / extreme-close framings while keeping the horizontal depth rule; the unpowered to powered change must be clearly readable (plain silhouette before, glowing aura-and-weapon silhouette after). Flat silhouette style only, no realism, no faces, no text other than the panel numbers.

@@ -1,0 +1,18 @@
+[16:9 DRAFT — orchestrator review before paid gen]
+Create a HORIZONTAL 4x4 storyboard grid (16 panels), WIDE 16:9 cells, thin black borders, a small bold number 1-16 top-left. Minimalist FLAT 2D SILHOUETTE style: a small {{PALETTE_HERO}} silhouette heroine in her battle form and a MUCH LARGER COLOSSAL dark-grey/black boss silhouette with glowing {{PALETTE_ENEMY}} eye accents ({{OPPONENT_DESC_EN}}), on plain muted ground suggesting {{ENVIRONMENT_EN}}, no fine detail, no faces.
+
+CRITICAL COMPOSITION RULE: WIDE horizontal frames using full width and DEPTH; the colossus occupies the background depth and fills the frame width, the heroine tiny in the foreground — the scale difference must read clearly. Lateral and depth staging, not centered-stacked.
+
+PANEL 1 — TRANSITION CONTINUITY: reproduce the COMPOSITION of the provided reference image in flat silhouette — the heroine in her battle form pressing forward, the enemy reeling, exactly as the reference shows. Take ONLY composition and placement; ignore its colors and detail.
+
+Then the enemy rises into a towering BOSS — a power-surge escalation:
+- Panel 2: the reeling enemy bursts and dissolves into erupting {{PALETTE_ENEMY}} shadow, the ground cracking wide, no full figure yet.
+- Panel 3: a hulking dark mass coalesces along the horizon, half-formed, swelling across the width.
+- Panel 4: the COLOSSAL boss fully risen, filling the frame width and towering over the tiny heroine (roughly 4x her height), its glowing {{PALETTE_ENEMY}} eyes — the SAME color as before — fixed on her.
+- Panels 5-7: the heroine dashes laterally as crushing blows hammer down, weaving between giant sweeping arms across the frame.
+- Panels 8-10: she leaps up the colossus, lands a flurry of {{PALETTE_HERO}} strikes, is swatted back into the foreground, recovers low.
+- Panels 11-13: both gather full power — the colossus charging a {{PALETTE_ENEMY}} blast in the depth, the heroine charging {{PALETTE_HERO}} power in the foreground, auras flaring huge.
+- Panels 14-15: the heroine rockets up the frame straight at the boss, driving her charged strike through its core as a massive radial explosion blooms wide.
+- Panel 16 — END HOT: freeze on the peak of impact, the strike landing inside the blast, energy at maximum.
+
+Vary wide / medium / extreme-close framings; once the boss forms the scale difference must stay readable. Flat silhouette only, no realism, no faces, no text other than panel numbers.

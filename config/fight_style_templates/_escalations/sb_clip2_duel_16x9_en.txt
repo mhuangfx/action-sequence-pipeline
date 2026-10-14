@@ -1,0 +1,16 @@
+[16:9 DRAFT — orchestrator review before paid gen]
+Create a HORIZONTAL 4x4 storyboard grid (16 panels), WIDE 16:9 cells, thin black borders, a small bold number 1-16 top-left. Minimalist FLAT 2D SILHOUETTE style: a {{PALETTE_HERO}} silhouette heroine in her battle form and a SAME-SCALE dark-grey/black rival silhouette with glowing {{PALETTE_ENEMY}} accents ({{OPPONENT_DESC_EN}}), on plain muted ground suggesting {{ENVIRONMENT_EN}}, no fine detail, no faces.
+
+CRITICAL COMPOSITION RULE: WIDE horizontal frames using full width and DEPTH; both duelists readable together, staged across the width and into depth, lateral motion and long shadows, not centered-stacked.
+
+PANEL 1 — TRANSITION CONTINUITY: reproduce the COMPOSITION of the provided reference image in flat silhouette — the heroine in her battle form pressing forward, the rival recovering, exactly as the reference shows. Take ONLY composition and placement; ignore its colors and detail.
+
+Then a single, focused, evenly-matched 1v1 duel — disciplined and lethal:
+- Panels 2-4: the rival squares up and they open a fast clean exchange across the frame, blade/energy meeting blade/energy, sparks of {{PALETTE_HERO}} vs {{PALETTE_ENEMY}}.
+- Panels 5-6: a measured beat — they circle at distance across the width, reading each other, auras low and tight.
+- Panels 7-9: a sudden flurry — the rival presses, lands a {{PALETTE_ENEMY}} cut that staggers her to the far edge; she recovers sharp.
+- Panels 10-12: her counter — a precise {{PALETTE_HERO}} riposte sequence that drives the rival back into the depth, both at full speed.
+- Panels 13-15: both commit to one final full-power strike, charging from opposite depths and meeting at center in a massive radial explosion blooming wide.
+- Panel 16 — END HOT: freeze on the peak of the final clash, both locked at its core, energy at maximum.
+
+Vary wide / medium / extreme-close framings; keep the clean duel focus and horizontal depth. Flat silhouette only, no realism, no faces, no text other than panel numbers.

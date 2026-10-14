@@ -1,0 +1,56 @@
+{
+ "heroines": {
+  "vesta": {
+   "display_name": "Vesta, the Ember Channeler",
+   "name_zh": "薇斯塔",
+   "element": "fire/molten-ember",
+   "char_sheet": "characters/char01_vesta",
+   "desc_zh": "火红长发，黑铁鎏金符文战甲，火焰光晕环绕周身，面颊符文发光",
+   "rules": {
+    "unpowered_form": "Her FANTASY self with the power dormant — same charcoal/oxblood mystic regalia, NO fire corona, glyph dim. NOT modern/casual clothing (no jeans, no t-shirt, no street clothes).",
+    "transform": "Flames IGNITE over her existing form (fire corona blooms, blackened-iron rune-armor manifests over the regalia, cheek glyph blazes, sigil ring underfoot). It is a power IGNITION, NOT a change of clothes.",
+    "combat_style": "Fights primarily with FIRE — flame arcs, bursts, waves, whips, projectiles, sigil blasts. Minimize physical/fist strikes (an occasional flame-empowered strike is fine, but flames are her weapon). Flame attacks let her stay CENTERED while the opponent is staged in depth.",
+    "setting": "fantasy — wind-worn ruins / ember-lit wilds (NOT modern city)."
+   }
+  },
+  "morta": {
+   "display_name": "Morta, the Shadow Reaper",
+   "name_zh": "莫尔塔",
+   "element": "shadow/death",
+   "char_sheet": "characters/char02_morta",
+   "desc_zh": "黑发死神少女，暗影死神战甲，手持幽蓝鬼火长镰，周身翻涌黑色暗影，右颊紫色符文发光",
+   "rules": {
+    "unpowered_form": "Mundane gothic SCHOOLGIRL (plaid skirt, modern) — for Morta the modern base IS intended (drastic base→powered contrast is the point).",
+    "transform": "Outfit/body change: schoolgirl → shadow-demon reaper armor + wraith-fire scythe. A real metamorphosis (unlike Vesta's ignition).",
+    "combat_style": "Shadow/void + the wraith-fire scythe (a weapon, unlike Vesta). Sweeping scythe arcs + shadow bursts; keep readable, centered, opponent in depth.",
+    "setting": "modern (school/city) base — suits the casual→epic relatability hook."
+   }
+  },
+  "aurora": {
+   "display_name": "Aurora, the Dawnbringer",
+   "name_zh": "奥萝拉",
+   "element": "dawn/light",
+   "char_sheet": "characters/char03_aurora",
+   "desc_zh": "金发圣骑士天使，白金圣甲手持巨剑，背后展开光辉光丝之翼，眉间金色符文发光",
+   "rules": {
+    "unpowered_form": "Temple PRIESTESS (ivory/gold robes) — fantasy/sacred base.",
+    "transform": "Outfit change: priestess robes → paladin archangel plate + greatsword + WINGS of glowing light-tendrils (Tyrael-style, NOT feathers; hard for the model).",
+    "combat_style": "Light + a greatsword; radiant bursts and sword arcs. Keep readable, centered, opponent in depth.",
+    "setting": "temple / sacred ruins."
+   }
+  },
+  "vyra": {
+   "display_name": "Vyra, the Dragon Rider",
+   "name_zh": "薇拉",
+   "element": "dragon/primal-ember",
+   "char_sheet": "characters/char04_vyra",
+   "desc_zh": "野性龙骑士少女，脏辫缠骨珠龙牙，脸颊龙鳞部落纹身与眼部黑色战纹，铜色飞行护目镜，骑乘巨龙翱翔，龙喉与纹身透出余烬橙光",
+   "rules": {
+    "unpowered_form": "Feral tribal dragon rider — rugged hide-and-scale gear, dreadlocks, dragon-scale face tattoos and war paint. NOT modern/casual, NOT polished armor.",
+    "transform": "No spellcaster transform. Her 'power moment' is the bond with her dragon — mounting, taking flight, the dragon's ember breath igniting. Reads through the beast and ember firelight, never cast glyphs.",
+    "combat_style": "AERIAL ONLY — she does NOT fight ground duels or 1v1 brawls. Her set is flythrough-follow, fly-approach-massive-boss, chase-cam and aerial dogfight, always mounted on or beside the dragon. A spear for close passes; the dragon is the weapon.",
+    "setting": "fantasy wilds / sky — mountain peaks, cliffside aeries, canyons, volcanic calderas (NOT city, NOT temple interiors)."
+   }
+  }
+ }
+}

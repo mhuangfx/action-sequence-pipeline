@@ -1,0 +1,15 @@
+# action-sequence-pipeline Python deps.
+#
+# Install into the shared venv (which is gitignored, so rebuild after a clone):
+#   python3 -m venv .venv
+#   .venv/bin/python3 -m pip install -r requirements.txt
+#
+
+# Cut detection for tools/shot_breakdown.py. ContentDetector is what makes the
+# per-shot reference breakdown accurate: ffmpeg's `scdet` missed 4 real cuts in a
+# dark stretch of a 15s anime fight window (14 shots vs the correct 17), and cut
+# timing drives the whole per-shot prompt. `--engine ffmpeg` still works without
+# this installed, as a rougher zero-dependency fallback.
+# Pulls opencv-python transitively (validated against 5.0.0.93).
+scenedetect==0.7.1
+faster-whisper  # CPU speech-to-text: verifies whether an H3 render contains speech

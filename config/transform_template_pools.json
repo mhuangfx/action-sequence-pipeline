@@ -1,0 +1,648 @@
+{
+ "_meta": {
+  "purpose": "Variation-axis pools for the transformation-reveal LLM prompt assembler. THROWAWAY PROBE HARNESS — not pipeline code.",
+  "source_of_truth": [
+   "output/probes/pivot_wave1/probe_04/spec.md (gold standard, dynamic-v1 camera)",
+   "output/probes/pivot_wave1/probe_03/spec.md",
+   "output/probes/pivot_wave1/WAVE1_RESULTS.md"
+  ],
+  "grammar_note": "The template owns fixed Chinese boilerplate (style law, camera law, identity-lock, pacing skeleton). The LLM only fills variable connective tissue between/around those blocks."
+ },
+ "register_sampling": {
+  "_note": "Register + dark sub-shape sampling weights used by assemble_transform_prompt.py when no --register/--shape override is given (owner ruling 2026-07-26). Weights need not sum to 1 — they are normalized. dark_villain sub-shapes are sampled from shape_weights when a dark register is rolled.",
+  "weights": {
+   "heroic": 0.5,
+   "awe": 0.25,
+   "dark_villain": 0.25
+  },
+  "shape_weights": {
+   "dark_armored": 0.4,
+   "symbiote_engulf": 0.2,
+   "demonic": 0.2,
+   "shadow_reaper": 0.2
+  }
+ },
+ "register": {
+  "heroic": {
+   "guidance": "Classic hero awakening: warm resolve, protective motivation, she stands to defend/face the threat. End state: bright/luminous armor-self, aura reads warm and grounded, resolute-but-hopeful expression. No horror or dread language.",
+   "end_state": "luminous armored-self, warm-toned aura, resolute composed stance"
+  },
+  "awe": {
+   "guidance": "Wonder-forward awakening: the transformation reads as majestic/sublime rather than combative — she is stunned by her own power as much as the audience is. She is EMPTY-HANDED throughout — no weapon coalesces; the power itself gathers in her open palms/around her body as living phenomenon. The reveal is SERENE, not a combat stance: she settles into a calm, grounded, open posture, arms lowering or opening rather than leveling a weapon at a threat. Vocabulary is WONDER-forward (radiant/sublime/luminous/breathtaking/hushed), never dread or menace. End state: radiant, elemental grandeur, expression is wide-eyed wonder settling into quiet command, less snarl-armor more living-phenomenon aesthetic.",
+   "end_state": "radiant elemental-grandeur living-phenomenon self, empty hands cradling gathered power, expression settles from awe into serene quiet command",
+   "weapon_policy": "none — awe is always empty-handed (weapon forced to none-empty-handed)"
+  },
+  "dark_villain": {
+   "guidance": "Dark self: shadow/ember/obsidian-toned transformation, wrong-colored glowing eyes (not the heroic gold/blue — pick something unsettling like violet, sickly green, or bone-white), cold/commanding presence. Her face and identity are anchored per the chosen transform_shape (see that shape's guidance for exactly how far the covering may go and when). Any monstrous bulk / size-shift / full substance-conversion is ONLY permitted AT or AFTER the reveal beat (12-15s), never mid-morph (4-12s).",
+   "end_state": "dark self per chosen transform_shape, wrong-colored glowing eyes, cold/commanding expression",
+   "transform_shape": {
+    "_note": "SUB-SHAPE axis for dark_villain only (owner ruling 2026-07-26). Expands the register beyond armor. Each variant bakes in the safety choreography distilled from the probe-01 failure library: she stays the grammatical subject of every sentence, possessive continuity (the substance covers HER body/HER arms), face-consumed-LAST ordering for the covering shapes, monstrous bulk/growth/size-shift ONLY at/after the reveal, NO full white-out, continuous take unchanged. 'identity_lock' names which boilerplate lock line the stitcher/validator must use: 'standard' = boilerplate.identity_lock (face readable throughout); 'morph_covering' = boilerplate.identity_lock_variant (identity locked DURING the morph, fully-covered end state permitted).",
+    "default": "dark_armored",
+    "variants": {
+     "dark_armored": {
+      "guidance": "Validated shape (probe-02 recipe, dark-toned): the element hardens into obsidian/shadow plate ARMOR forming ON her body along the zoom tour — gauntlets, chest plate, veining, markings. Her FACE STAYS FULLY READABLE from first frame to last; the armor forms around her, never over her face. No substance-excursion, no size-shift mid-morph — she is armor-forming-on-a-person.",
+      "identity_lock": "standard",
+      "end_state": "dark obsidian/shadow plate armored-self, wrong-colored glowing eyes, cold commanding stance, face fully readable"
+     },
+     "symbiote_engulf": {
+      "guidance": "Venom-class living-substance engulf: from the touchpoint a dark LIVING substance crawls over HER — it spreads across HER limbs, wraps HER arms, sheathes HER torso, always keeping HER silhouette as it flows. HER FACE IS CONSUMED LAST: the substance closing over HER face is the FINAL morph beat, right before the reveal — until that final beat HER human features stay clearly visible and anchor her identity. Follow the zoom tour over HER body parts, saving the face beat for last. The substance keeps HER exact human silhouette through the entire morph — same body, same proportions; any monstrous bulk or size-shift waits until AT/AFTER the reveal. She is ALWAYS the grammatical subject; the substance covers HER, she is never re-narrated as a separate creature/being. No full white-out at the peak.",
+      "identity_lock": "morph_covering",
+      "end_state": "fully engulfed living-substance form that still holds her exact silhouette, wrong-colored eyes glowing through the sheath, cold commanding stance"
+     },
+     "demonic": {
+      "guidance": "Demonic manifestation growing FROM her: horns, talons, and burning sigils grow OUT OF HER own body along the zoom tour; HER skin darkens and cracks with inner glow tracing HER veins. HER FACE TRANSFORMS but remains HER transformed face — HER eyes stay hers and anchor identity throughout, never replaced. She is always the grammatical subject; every growth erupts from HER. Any monstrous bulk / size-shift only at/after the reveal. No full white-out.",
+      "identity_lock": "standard",
+      "end_state": "demonic transformed-self — horns/talons/burning sigils grown from her, cracked inner-glowing skin, her own wrong-colored eyes anchoring identity, cold commanding stance"
+     },
+     "shadow_reaper": {
+      "guidance": "Shadow-wraith dissolve: HER edges dissolve into living shadow/smoke that wraps HER into a cloaked wraith form — the shadow rises over HER feet, HER limbs, HER shoulders along the zoom tour, always holding HER silhouette. HER FACE IS LAST TO SHADOW OVER: the cloaking of HER face is the FINAL morph beat right before the reveal; until then HER human features stay clearly visible and anchor identity. She keeps HER exact silhouette through the morph; any monstrous scale/size-shift waits until AT/AFTER the reveal. She is ALWAYS the grammatical subject; the shadow wraps HER, she is never re-narrated as a separate being. No full white-out at the peak.",
+      "identity_lock": "morph_covering",
+      "end_state": "cloaked shadow-wraith form that still holds her exact silhouette, wrong-colored eyes glowing from within the hood, cold commanding stance"
+     }
+    }
+   }
+  }
+ },
+ "speed_axis": {
+  "_note": "ROADMAP STUBS — documented but DISABLED (owner ruling 2026-07-26). Records the pacing-variation direction without rolling it. Each introduces a second subject/element into the take and therefore needs its own dedicated probe before it can be enabled; the assembler must never sample these.",
+  "default": "standard",
+  "variants": {
+   "standard": {
+    "enabled": true,
+    "note": "the validated 0-4 / 4-12 / 12-15s pacing skeleton; the only enabled speed."
+   },
+   "emergency_fast": {
+    "enabled": false,
+    "note": "needs own probe — introduces second subject (an incoming threat/impact the transform races to beat), which changes the take's subject-continuity math."
+   },
+   "frozen_moment": {
+    "enabled": false,
+    "note": "needs own probe — introduces second subject (time-frozen bystanders/debris around her), which changes the take's subject-continuity math."
+   }
+  }
+ },
+ "elements": {
+  "_note": "12+ entries. Excludes already-used (ink-calligraphy, frost-crystal, molten-gold, verdant-thornwood) and roster-reserved (fire-ember, light-wings, urban-electric, dragon-fire).",
+  "pool": [
+   {
+    "id": "obsidian-glass",
+    "label": "obsidian-glass",
+    "cn_material": "黑曜石玻璃",
+    "description": "cracked volcanic black glass that surges up and hardens into faceted obsidian plate armor, glowing magma-orange seams tracing the cracks",
+    "keywords": [
+     "黑曜石",
+     "曜石"
+    ]
+   },
+   {
+    "id": "storm-lightning",
+    "label": "storm-lightning",
+    "cn_material": "雷电风暴",
+    "description": "crackling storm-lightning that arcs and fuses into silver-blue plated armor with branching electric veins running its surface",
+    "keywords": [
+     "雷电",
+     "闪电",
+     "雷鸣"
+    ]
+   },
+   {
+    "id": "coral-tide",
+    "label": "coral-tide",
+    "cn_material": "潮汐珊瑚",
+    "description": "living coral and seawater that surges up and calcifies into pearlescent coral-plate armor, bioluminescent teal seams pulsing like tide",
+    "keywords": [
+     "珊瑚",
+     "潮汐"
+    ]
+   },
+   {
+    "id": "sand-glass-crystal",
+    "label": "sand-glass-crystal",
+    "cn_material": "沙晶玻璃",
+    "description": "desert sand fusing under heat into translucent glass-crystal armor plates, amber light glowing inside like trapped sunlight",
+    "keywords": [
+     "沙晶",
+     "玻璃晶",
+     "沙玻璃"
+    ]
+   },
+   {
+    "id": "iron-magnetite",
+    "label": "iron-magnetite",
+    "cn_material": "磁铁矿铁",
+    "description": "molten black iron filings that swarm and lock into magnetite plate armor, faint magnetic-blue lines pulsing across the joints",
+    "keywords": [
+     "磁铁矿",
+     "磁铁",
+     "铁甲"
+    ]
+   },
+   {
+    "id": "bone-ivory",
+    "label": "bone-ivory",
+    "cn_material": "骨白象牙",
+    "description": "carved bone-ivory plates that grow and interlock across her body, deep crimson marrow-light glowing in the seams",
+    "keywords": [
+     "骨白",
+     "象牙",
+     "白骨"
+    ]
+   },
+   {
+    "id": "jade-mist",
+    "label": "jade-mist",
+    "cn_material": "翡翠云雾",
+    "description": "swirling jade-green mist that condenses and hardens into polished jade armor plates, soft mist still curling off the surface",
+    "keywords": [
+     "翡翠",
+     "玉色",
+     "玉"
+    ]
+   },
+   {
+    "id": "amethyst-crystal",
+    "label": "amethyst-crystal",
+    "cn_material": "紫水晶",
+    "description": "growing amethyst crystal facets that erupt and lattice into violet crystalline armor, inner light pulsing like a heartbeat",
+    "keywords": [
+     "紫水晶",
+     "水晶"
+    ]
+   },
+   {
+    "id": "solar-magma",
+    "label": "solar-magma",
+    "cn_material": "太阳熔岩",
+    "description": "searing magma-orange plasma that cools at the surface into cracked obsidian-and-ember armor plates, molten light glowing beneath the cracks",
+    "keywords": [
+     "熔岩",
+     "太阳熔"
+    ]
+   },
+   {
+    "id": "silk-shadow",
+    "label": "silk-shadow",
+    "cn_material": "暗影丝绸",
+    "description": "living shadow-silk ribbons that wrap and stiffen into matte-black plate armor, faint violet static crawling along the fabric weave",
+    "keywords": [
+     "暗影丝绸",
+     "暗影",
+     "丝绸"
+    ]
+   },
+   {
+    "id": "bronze-clockwork",
+    "label": "bronze-clockwork",
+    "cn_material": "青铜齿轮",
+    "description": "spinning bronze clockwork gears and plates that lock together into ornate bronze armor, warm amber light glowing through the gear seams",
+    "keywords": [
+     "青铜",
+     "齿轮"
+    ]
+   },
+   {
+    "id": "glacier-abyss",
+    "label": "glacier-abyss",
+    "cn_material": "深渊冰川",
+    "description": "black glacial ice from a bottomless deep that surges and fuses into dark-blue ice-plate armor, cold white light glowing in fracture lines",
+    "keywords": [
+     "冰川",
+     "深渊冰"
+    ]
+   },
+   {
+    "id": "ash-cinder",
+    "label": "ash-cinder",
+    "cn_material": "灰烬余烬",
+    "description": "swirling grey ash and glowing cinders that compact into charcoal-plate armor, dull ember-red light pulsing through the cracks",
+    "keywords": [
+     "灰烬",
+     "余烬"
+    ]
+   },
+   {
+    "id": "silver-mercury",
+    "label": "silver-mercury",
+    "cn_material": "银色水银",
+    "description": "liquid silver mercury that surges up and solidifies into mirror-plate armor, cool blue-white light rippling across the reflective surface",
+    "keywords": [
+     "水银",
+     "银色液",
+     "银液"
+    ]
+   }
+  ]
+ },
+ "roster_excluded": [
+  "fire-ember",
+  "light-wings",
+  "urban-electric",
+  "dragon-fire"
+ ],
+ "already_used_excluded": [
+  "ink-calligraphy",
+  "frost-crystal",
+  "molten-gold",
+  "verdant-thornwood"
+ ],
+ "incident_classes": {
+  "_note": "9 classes. Each is a one-line beat description the LLM expands into the 0-4s setup+trigger connective tissue.",
+  "pool": [
+   {
+    "id": "accidental-contact",
+    "label": "accidental-contact",
+    "beat": "Something ordinary touches her by accident (a falling droplet, a brushing spark, a stray object) and the contact becomes the trigger — framed as an accident happening TO her, not a decision."
+   },
+   {
+    "id": "environmental-threat",
+    "label": "environmental-threat",
+    "beat": "A colossal creature or disaster force breaches the environment at a distance (buildings smashed, ground cracking); crowd flees past her; she stands her ground and willingly awakens to face it."
+   },
+   {
+    "id": "mysterious-figure",
+    "label": "mysterious-figure",
+    "beat": "A tall, threatening silhouette appears at a distance (end of a street, far end of a platform); she stops, turns to face it, and willingly awakens in response."
+   },
+   {
+    "id": "blackout-suspicion",
+    "label": "blackout-suspicion",
+    "beat": "The lights cut out or stutter and something is clearly wrong nearby; she senses the threat before seeing it and deliberately awakens as readiness."
+   },
+   {
+    "id": "rescue-intervention",
+    "label": "rescue-intervention",
+    "beat": "She sees someone else in danger at a distance (trapped, cornered, about to be hurt) and awakens on purpose in order to intervene."
+   },
+   {
+    "id": "disaster",
+    "label": "disaster",
+    "beat": "A natural or structural disaster begins around her (collapsing structure, spreading flood/fire glow, cracking ground) and she awakens to withstand or answer it."
+   },
+   {
+    "id": "pursuit",
+    "label": "pursuit",
+    "beat": "She becomes aware she is being pursued or hunted — footsteps, a shadow gaining on her — and she turns to face her pursuer, awakening rather than fleeing."
+   },
+   {
+    "id": "artifact-inheritance",
+    "label": "artifact-inheritance",
+    "beat": "She touches or is near an old/mysterious object (relic, mark, inscription) that resonates and answers her, triggering the awakening as an inheritance rather than an accident."
+   },
+   {
+    "id": "emotional-surge",
+    "label": "emotional-surge",
+    "beat": "A sudden emotional peak (fear for someone, fury, resolve) breaks through and the power answers her feeling directly — no external object trigger, the surge comes from within."
+   }
+  ]
+ },
+ "zoom_tour": {
+  "_note": "assembler samples 2-4 of these, in random order, for the 4-12s whip-push-in choreography. SAFETY INVARIANT: every camera push-in target is a part of HER body — never an external object, never a void/off-body cutaway.",
+  "safety_invariant": "Every camera push-in target listed in the zoom tour MUST be a part of her own body. Never push in on an external object, weapon-in-isolation, or empty space.",
+  "pool": [
+   {
+    "id": "eyes-extreme-closeup",
+    "cn": "她的双眼",
+    "keywords": [
+     "双眼",
+     "眼中",
+     "双目",
+     "眼眸",
+     "瞳"
+    ],
+    "note": "extreme closeup on her eyes igniting — pairs with skin micro-detail when in tour"
+   },
+   {
+    "id": "fist",
+    "cn": "她紧握的拳头",
+    "keywords": [
+     "拳头",
+     "拳",
+     "指尖",
+     "手指"
+    ],
+    "note": "closeup on her clenched fist as gauntlet/effect forms"
+   },
+   {
+    "id": "feet-ground",
+    "cn": "她的双脚与脚下地面",
+    "keywords": [
+     "脚",
+     "足",
+     "脚下",
+     "脚掌",
+     "脚踝"
+    ],
+    "note": "low closeup on her feet/the ground contact touchpoint"
+   },
+   {
+    "id": "chest",
+    "cn": "她的胸前",
+    "keywords": [
+     "胸前",
+     "胸口",
+     "胸甲",
+     "胸膛"
+    ],
+    "note": "sweep across her chest as chest plate forms"
+   },
+   {
+    "id": "hair",
+    "cn": "她的发丝",
+    "keywords": [
+     "发丝",
+     "头发",
+     "发梢",
+     "长发",
+     "秀发"
+    ],
+    "note": "closeup on her hair whipping in the power-wind"
+   },
+   {
+    "id": "weapon-hand",
+    "cn": "她持握武器的手",
+    "keywords": [
+     "掌心",
+     "手中",
+     "手掌",
+     "掌中",
+     "握柄",
+     "持握"
+    ],
+    "note": "closeup on the hand the weapon coalesces in"
+   }
+  ]
+ },
+ "demographics": {
+  "_note": "Respectful, concrete descriptors. Combined into a short appearance clause for the intro beat; age always 18-35.",
+  "clothing_styles": [
+   "a fitted charcoal trench coat over a simple tee",
+   "a worn denim jacket over athletic wear",
+   "a long tailored wool coat",
+   "a plain hoodie and cargo pants",
+   "a simple sundress with a cropped jacket",
+   "a utility jumpsuit with rolled sleeves",
+   "a leather jacket over a turtleneck",
+   "a market-vendor apron over everyday clothes",
+   "a rain-slicked windbreaker",
+   "a delivery-courier satchel and jacket"
+  ],
+  "body_types": [
+   "lean and wiry",
+   "athletic and broad-shouldered",
+   "tall and long-limbed",
+   "compact and muscular",
+   "average build, quietly strong-looking",
+   "curvy and solidly built"
+  ],
+  "age_range": "18-35",
+  "ethnicity_descriptors": [
+   "East Asian features",
+   "South Asian features",
+   "Black features with natural coily hair",
+   "Latina features",
+   "Middle Eastern features",
+   "Southeast Asian features",
+   "mixed-heritage features",
+   "Pacific Islander features",
+   "White/European features",
+   "Indigenous American features"
+  ]
+ },
+ "realism_details": {
+  "lenses": [
+   "35mm",
+   "50mm",
+   "85mm",
+   "anamorphic",
+   "24mm wide",
+   "100mm macro"
+  ],
+  "lighting_regimes": [
+   "sodium-vapor streetlight glow",
+   "neon rain reflections",
+   "overcast diffuse daylight",
+   "golden-hour low sun",
+   "cold moonlit blue",
+   "flickering fluorescent tube light",
+   "warm tungsten interior spill",
+   "hazy dust-filtered daylight"
+  ],
+  "skin_micro_detail_phrases": [
+   "visible skin pores and fine peach-fuzz catching the light",
+   "faint freckles and natural skin texture holding through the glare",
+   "subtle sheen of sweat on real skin texture",
+   "fine facial hair and skin texture staying crisp under the light"
+  ],
+  "skin_micro_detail_autoinclude_rule": "Auto-include one skin_micro_detail_phrase whenever 'eyes-extreme-closeup' or a face-adjacent target is in the sampled zoom_tour."
+ },
+ "environments": [
+  "an empty rain-slick city plaza at night, flickering streetlights",
+  "a downtown city street at dusk, tall buildings, warm low light",
+  "an underground subway platform, fluorescent lights buzzing",
+  "a foggy harbor pier at dawn, moored boats creaking",
+  "a rooftop parking garage at night, sodium lights humming",
+  "a quiet suburban street at dusk, porch lights coming on",
+  "an abandoned warehouse district under overcast sky",
+  "a crowded night market alley, string lights swaying",
+  "a desert highway overpass at golden hour",
+  "a rain-soaked back alley behind neon signage",
+  "a windswept coastal cliff road at dusk",
+  "a subway tunnel mouth at the edge of a station platform",
+  "an empty stadium concourse at night, floodlights buzzing",
+  "a construction site at dusk, cranes silhouetted against the sky",
+  "a bridge walkway over a river at night, city lights reflecting below"
+ ],
+ "hero_names": {
+  "_note": "Each name carries a Chinese transliteration (cn); the assembler passes cn into the prompt and the validator rejects Latin-script hero names in the output (feedback fix, probe 05). 'Nyssa' (尼莎) is deliberately excluded — it is the probe_04 gold-example hero and a few-shot leak token.",
+  "pool": [
+   {
+    "latin": "Sirael",
+    "cn": "西拉尔"
+   },
+   {
+    "latin": "Selka",
+    "cn": "塞尔卡"
+   },
+   {
+    "latin": "Sumira",
+    "cn": "苏米拉"
+   },
+   {
+    "latin": "Kaelith",
+    "cn": "凯莉丝"
+   },
+   {
+    "latin": "Vesperine",
+    "cn": "薇斯佩琳"
+   },
+   {
+    "latin": "Thalindra",
+    "cn": "塔琳德拉"
+   },
+   {
+    "latin": "Morrigana",
+    "cn": "莫瑞甘娜"
+   },
+   {
+    "latin": "Aurelith",
+    "cn": "奥瑞莉丝"
+   },
+   {
+    "latin": "Ishtara",
+    "cn": "伊什塔拉"
+   },
+   {
+    "latin": "Callixta",
+    "cn": "卡莉克斯塔"
+   },
+   {
+    "latin": "Ravenna",
+    "cn": "蕾雯娜"
+   },
+   {
+    "latin": "Zephyrine",
+    "cn": "泽菲琳"
+   },
+   {
+    "latin": "Solvaine",
+    "cn": "索尔薇恩"
+   },
+   {
+    "latin": "Nocturne",
+    "cn": "诺克顿"
+   },
+   {
+    "latin": "Amarissa",
+    "cn": "阿玛丽莎"
+   },
+   {
+    "latin": "Draventh",
+    "cn": "德拉文斯"
+   },
+   {
+    "latin": "Lysandra",
+    "cn": "莉珊德拉"
+   },
+   {
+    "latin": "Oberyth",
+    "cn": "奥贝瑞斯"
+   },
+   {
+    "latin": "Seraphine",
+    "cn": "瑟拉芬"
+   },
+   {
+    "latin": "Vantessa",
+    "cn": "凡黛莎"
+   },
+   {
+    "latin": "Ythera",
+    "cn": "伊瑟拉"
+   },
+   {
+    "latin": "Corvinia",
+    "cn": "科尔维尼娅"
+   },
+   {
+    "latin": "Malestra",
+    "cn": "玛蕾丝卓"
+   }
+  ]
+ },
+ "weapons": {
+  "_note": "register-appropriate. awe register may have NO weapon (empty-handed / weaponless power).",
+  "pool": [
+   {
+    "id": "greatsword",
+    "cn": "双手巨剑",
+    "register_fit": [
+     "heroic",
+     "dark_villain"
+    ]
+   },
+   {
+    "id": "glaive",
+    "cn": "长柄战刃",
+    "register_fit": [
+     "heroic",
+     "awe"
+    ]
+   },
+   {
+    "id": "twin-daggers",
+    "cn": "一对短刃",
+    "register_fit": [
+     "dark_villain"
+    ]
+   },
+   {
+    "id": "war-hammer",
+    "cn": "巨型战锤",
+    "register_fit": [
+     "heroic",
+     "dark_villain"
+    ]
+   },
+   {
+    "id": "spear",
+    "cn": "长枪",
+    "register_fit": [
+     "heroic",
+     "awe"
+    ]
+   },
+   {
+    "id": "battle-axe",
+    "cn": "双刃战斧",
+    "register_fit": [
+     "dark_villain"
+    ]
+   },
+   {
+    "id": "chain-scythe",
+    "cn": "链刃镰刀",
+    "register_fit": [
+     "dark_villain"
+    ]
+   },
+   {
+    "id": "energy-bow",
+    "cn": "能量长弓",
+    "register_fit": [
+     "heroic",
+     "awe"
+    ]
+   },
+   {
+    "id": "none-empty-handed",
+    "cn": "空手、能量凝于双掌",
+    "register_fit": [
+     "awe"
+    ]
+   },
+   {
+    "id": "curved-saber",
+    "cn": "弯刃战刀",
+    "register_fit": [
+     "heroic",
+     "dark_villain"
+    ]
+   }
+  ]
+ },
+ "boilerplate": {
+  "_note": "FIXED Chinese blocks copied verbatim from probe_04. The assembler inserts these unmodified; the LLM never generates or rephrases them.",
+  "style_law": "竖屏9:16，720p，全程统一的全实拍级写实电影渲染——真实皮肤、真实布料、真实光影，能量与铠甲皆为电影级视效大片质感的写实特效、打在一个真实人物身上，写实风格从第一帧到最后一帧完全一致，包括变身之后。",
+  "camera_law": "全片一镜到底、连续不间断，镜头始终锁定在她身上、以她为中心。她的发色与发型自始至终保持不变。",
+  "identity_lock": "这是同一个人的力量觉醒蜕变，五官与身份始终保持一致，绝非换成另一个人，她的人类面容与轮廓自始至终清晰可见。",
+  "identity_lock_variant": "这是同一个人的力量觉醒蜕变，整个变身过程中她始终是同一个人，五官在被完全覆盖之前始终清晰可见，绝非换成另一个人。",
+  "identity_lock_note": "'identity_lock' = default (face readable start→finish; used by heroic/awe and by dark_villain shapes dark_armored/demonic). 'identity_lock_variant' = covering shapes (symbiote_engulf/shadow_reaper): identity locked DURING the morph, the fully-covered end state permitted, features clear until consumed.",
+  "reveal_framing": "镜头拉远至中景与全身之间，人物占据画面主要高度",
+  "reveal_framing_note": "FIXED framing pin for the 12-15s reveal, inserted verbatim ahead of the LLM reveal_pose slot. Pins the pull-back BETWEEN mid-shot and full-body (probes overshot to full-wide in 3/5) so she keeps the majority of frame height.",
+  "pacing_markers": {
+   "setup_trigger": "0-4秒",
+   "morph_centerpiece": "4-12秒",
+   "held_reveal": "12-15秒"
+  }
+ }
+}

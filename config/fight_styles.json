@@ -1,0 +1,45 @@
+{
+  "_note": "Fight-style library for the channel. Goal: a set of distinct, reusable fight STYLES that combine with any heroine × environment × enemy for many clip combinations. Each clip = {heroine, style, environment, enemy}. Validated styles get a prod_ folder in output/.",
+  "styles": {
+    "1-vs-group": {
+      "name": "1 vs group",
+      "description": "Hero (centered) holds ground and unleashes elemental attacks at a group of generic enemies converging from depth. Enemy may duplicate into a horde (fine if generic). Single hero, opponent(s) in depth.",
+      "camera": "low-angle hero shots, OTS, push-in on impacts, orbit, crane-down",
+      "validated_on": "vesta",
+      "status": "production-ready",
+      "example": "output/prod_vesta_1vs-group"
+    },
+    "parkour-follow-cam": {
+      "name": "parkour follow cam",
+      "description": "A CHASE-THRILLER, not a battle. The SPECTACLE is intense CAMERA MOVEMENT + JUMP SCARES. Hero quick-transforms then runs flat-out through a NARROW, TWISTING passage (tight alleys/corridors) full of sudden turns and obstacles she must constantly avoid. Things POP OUT from corners/above (jump scares). Only a SPLASH of powers/enemies — NOT a horde battle.",
+      "camera": "MOSTLY FROM BEHIND her — a fast drone/cam chasing and STRUGGLING to keep up (she pulls ahead, cam surges to catch up, whips around corners). Heavy motion blur, claustrophobic, kinetic.",
+      "environment": "narrow + twisting (tight alleys/corridors), sudden turns, obstacles (beams, gaps, low arches, debris).",
+      "enemies": "a SPLASH only — sudden single lunges from corners/above, dispatched mid-stride. NO enemies in the opening shots.",
+      "validated_on": "morta",
+      "status": "production-ready",
+      "example": "output/prod_morta_parkour-follow-cam",
+      "learnings": "Seedance tends to add a 'run-out' after the climax — trim to end ON the peak beat (e.g. the slash-through). Enemies should disintegrate on hit. Vary follow distance (close↔fall-back↔surge) so it's cinematic, not game-like."
+    },
+    "vs-titan": {
+      "name": "vs titan",
+      "description": "A CLOSING-DISTANCE epic, cliffhanger style. A MASSIVE titan looms in the midground; crowds of people PANIC and FLEE — but the heroine transforms and ADVANCES toward it instead. The whole video is her relentlessly closing distance while the titan's massive attacks RESHAPE THE LANDSCAPE around her (buildings collapse, ground erupts, shockwaves). She NEVER actually attacks the titan. Ends on an epic powered-up SHOWDOWN standoff facing the titan — cliffharger, no clash.",
+      "camera": "follows her closing the distance — behind-follow advancing, tracking alongside, low-angle hero shots, WIDE shots for scale (her tiny vs the towering titan); titan looming ahead; varied cinematic distance; environmental destruction throughout.",
+      "enemy": "ONE colossal titan (the one style where a colossus is the point — looming, unattacked) + a CROWD of fleeing civilians. Single hero.",
+      "validated_on": "aurora",
+      "status": "production-ready",
+      "example": "output/prod_aurora_vs-titan",
+      "FUTURE_IMPROVEMENT": "The titan must be visibly MOVING (stomping/swinging) so its motion causally connects to the building destruction. Baseline clip's titan is mostly static — acceptable for the test, fix on future 'vs titan' clips.",
+      "learnings": "Urgency comes from FLIGHT (not walking): transform far → wings → fast aerial follow-cam dodging falling structures/debris/titan-attacks → pull up + charge + CUT. Crowds thrown aside = urgency. Keep the titan in the final charge frame (this version pulled up above it)."
+    },
+    "transformation_closeup": {
+      "name": "transformation closeup",
+      "description": "A close-up-forward variant of transformation_reveal. Opens TIGHT on the unawakened hero's face (calm eyes, ordinary moment), then the AWAKENING is the macro crescendo — power igniting in the eyes, the cheek/brow glyph blazing at close range — before the camera punches OUT as the power floods the frame and the wide transformation battle begins. Sells the personal/intimate moment of transformation before the spectacle. Single hero; opponent emerges after the reveal.",
+      "camera": "open on an extreme close-up of the face (macro detail of eyes/markings as power kindles), hold the awakening tight, then a fast pull-back / push-out into the wide 16:9 battle with horizontal depth; end hot on the peak.",
+      "validated_on": "2026-06-28",
+      "status": "RETIRED — human-rejected 2026-06-30 (removed from rotation in config/variety_pools.json). The arc opened AND closed on an extreme close-up: the opening macro detail was excellent, but the clip lost quality toward the end and the closing close-up did not match the start-frame detail, so the loop/continuity was broken. Last run was fine to post but must never run again. Definition kept for history only.",
+      "structure": "SINGLE 15s CLIP (2026-06-28 owner decision): when the randomizer picks the close-up variant it emits ONE clip (clips:1, clip_roles:[\"closeup_reveal\"]) — the ultra close-up reveal stands alone, STORYBOARD-LESS + PACING-LESS (char ref @image1 only). (A 2-clip close-up->action chain was built + proven via the seeded-storyboard bridge in make_video_atlas, but is NOT the daily default.) Per-clip routing in make_video.js (clipUsesStoryboard) + make_video_atlas.py. Flywheel: fingerprint.py exposes opener/clip_roles.",
+      "learnings": "Slow the close-up awakening beat, then go fast on the pull-out + fight. The close-up sells intimacy; the pull-back sells scale. Storyboard-less A/B (2026-06-28, Vesta, Seedance 2.0): the macro reveal lands AND is SMOOTHER without the silhouette storyboard — the grid compresses/rushes the reveal and bleeds the powered form into the calm opening. So the reveal opener takes no storyboard + no pacing; only the action clip2 does. Reuses transformation_reveal's casual-opening slots + the generic _escalations clip2 templates."
+    }
+  },
+  "ideas_backlog": ["bullet-time finisher", "back-to-back vs surround", "aerial/flight duel", "1v1 rival duel (clear single opponent)", "ambush counter", "boss silhouette standoff"]
+}

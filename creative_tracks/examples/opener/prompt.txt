@@ -1,0 +1,21 @@
+Image 1: Nine-panel storyboard reference, used for the overall shot structure, shot sizes, composition and camera-movement rhythm, read left to right, top to bottom, one panel per shot.
+Image 2: Environment reference of the white future city plaza and its landmark tower, used for architecture, materials, layout and bright midday light.
+Image 3: Character appearance reference of the space pirate woman.
+[Subject settings]
+The woman: refer to Image 3. A strikingly beautiful young woman with long thick wavy deep-violet hair, clearly violet in daylight, no helmet, pale violet eyes, dark plum lipstick, freckles, and a violet ink tattoo of angular circuit-like glyphs on her left forehead, temple and left cheek only. She wears battle-worn black and gunmetal sci-fi armour, scratched and chipped, with a small violet light at the collar and the belt buckle, and a pistol holstered on each hip. Cold, calm, dangerous. One woman only.
+Environment: refer to Image 2. A spotless white and glass future city: curved white towers, the tall slender white landmark tower with sky gardens, a raised glass transit track with white pods, a polished pale plaza with thin light lines, white planters with green trees, a clear blue sky. The city stays recognisably the same white and glass city with blue sky showing through the smoke all the way to the end, even while it burns.
+The fire: every explosion and every flame is real, billowing, turbulent fire in violet and magenta, with violet-lit smoke, heat shimmer and heavy debris. Never orange. Its source is never seen.
+[Overall style]
+Live-action color cinematic film, photoreal texture, shot on a large-format cinema camera, fine film grain, physically accurate light, real fire and smoke, debris with real weight. Natural real-time speed. 16:9. Cold, quiet menace turning into total destruction.
+[Strictly exclude]
+Storyboard frames, panel borders, grid layout, numbers, text, subtitles; hand-drawn, illustration, animation, plastic CG, crystal or glitter effects; orange fire; slow motion; a second woman.
+[Shot list] (9 shots, 30 seconds, hard cuts)
+Shot 1 (0-3s): Wide establishing shot, slow push forward. The pristine white and glass city plaza and the landmark tower in bright midday light under a clear blue sky, a few distant pedestrians. The woman is not in this shot.
+Shot 2 (3-7s): Medium-wide shot on the plaza. A narrow column of violet light beams down from the sky onto the paving and the woman materialises inside it, facing the camera; the beam fades, a ring of violet light fades on the ground at her feet, pedestrians turn to look. <a deep rising hum, then a soft shimmer>
+Shot 3 (7-8s): Extreme close-up of her lips, locked camera. Dialogue (the woman, a cold whisper): "Boom."
+Shot 4 (8-12s): Medium-wide shot, she stands in the foreground facing the camera, raises one hand beside her head and snaps her fingers with a cold half smile. On the snap, the landmark tower behind her erupts in a massive explosion of violet fire that engulfs its upper half, glass and white panels blasting outward. <a sharp finger snap, then a huge blast>
+Shot 5 (12-16s): Wide shot from behind her. The tower collapses toward her and a wave of debris, dust and violet fire crashes over the plaza and engulfs her; a transparent dome of violet force field forms around her, flaring where the rubble strikes it, and she stands untouched inside. Pedestrians flee. <roaring collapse, debris hammering the field>
+Shot 6 (16-20s): Extreme wide high-angle shot over the city in daylight. Massive violet fire explosions burst at tower after tower across the skyline; white towers break; blue sky between the smoke columns. <distant blasts>
+Shot 7 (20-24s): High overhead wide shot, the camera slowly descends toward her. She stands in the broken white plaza among rubble and violet flames, head tilted back, laughing up at the sky. Dialogue (the woman): a slow, cold, evil laugh.
+Shot 8 (24-27s): Extreme close-up of her lips lit by violet firelight, ash drifting, locked camera. Dialogue (the woman, a cold whisper): "Are you ready?"
+Shot 9 (27-30s): Wide shot from behind her, her dark silhouette in the foreground. The same white and glass city under a smoke-streaked blue sky: every tower burning and crumbling in violet flames, new violet explosions still bursting. <fire roar, explosions, her fading laugh>

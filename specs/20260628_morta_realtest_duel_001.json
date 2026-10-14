@@ -1,0 +1,32 @@
+{
+ "id": "20260628_morta_realtest_duel_001",
+ "generator": "atlas",
+ "gen_path": "atlas",
+ "char_ref": "characters/char02_morta/ref_morta_v3.png",
+ "char_ref_version": "v3",
+ "hero": "morta",
+ "hero_desc_zh": "暗影死神形态：暗影恶魔战甲，手持燃烧幽绿鬼火的长柄镰刀，周身缠绕翻涌暗影与幽绿火光，面部缠绕符文，双眸幽紫发光",
+ "casual_opening_zh": "现代都市的寻常一刻",
+ "casual_opening_en": "an ordinary modern moment",
+ "fight_style": "1v1_rival_duel_real",
+ "opponent": {
+  "mode": "prompt",
+  "key": "blood_knight",
+  "desc_zh": "身着绯红与银白铠甲的骑士，挥舞猩红能量巨剑，周身缠绕血色光焰",
+  "desc_en": "a knight in polished crimson-and-silver plate wielding a scarlet energy greatsword, wreathed in blood-red flame",
+  "ref_ts": "0000000000"
+ },
+ "environment": {
+  "desc_en": "a vast ruined gothic cathedral, shattered stained-glass windows, moonlight shafts through a broken dome, dust and cinders in the air",
+  "desc_zh": "一座宏伟的废墟哥特大教堂，破碎的彩绘玻璃窗，月光自残破穹顶倾泻而下，空中浮尘与火星飞舞"
+ },
+ "escalation": "battle",
+ "format": "16:9",
+ "clips": 1,
+ "clip_length": 15,
+ "resolution": "720p",
+ "palette": {
+  "hero": "ghost-green wraithfire",
+  "enemy": "blood crimson"
+ }
+}

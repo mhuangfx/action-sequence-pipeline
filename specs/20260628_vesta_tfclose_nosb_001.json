@@ -1,0 +1,33 @@
+{
+ "id": "20260628_vesta_tfclose_nosb_001",
+ "generator": "atlas",
+ "gen_path": "atlas",
+ "char_ref": "characters/char01_vesta/ref_vestia_v2.png",
+ "char_ref_version": "v2",
+ "hero": "vesta",
+ "hero_desc_zh": "火红长发，黑铁鎏金符文战甲，火焰光晕环绕周身，面颊符文发光，以烈焰为武器（火焰冲击波、熔岩爆炸、烈焰横扫）",
+ "casual_opening_zh": "荒野中的寻常一刻——独自走在风蚀余烬的废墟小径上",
+ "casual_opening_en": "an ordinary moment in the wilds — walking a lonely path through wind-worn, ember-lit ruins",
+ "fight_style": "transformation_closeup",
+ "storyboard": false,
+ "opponent": {
+  "mode": "prompt",
+  "key": "frost_revenant",
+  "desc_zh": "由淡蓝冰晶与白色寒雾构成的剑士，双眼透出冰蓝寒光，刃上拖曳霜雾",
+  "desc_en": "swordsman of pale glacial ice and white frost-mist, ice-blue glowing eyes, frost trailing off its blade",
+  "ref_ts": "0000000000"
+ },
+ "environment": {
+  "desc_en": "colossal ancient library interior, towering bookshelf cliffs, dust floating in god-rays",
+  "desc_zh": "巨大无比的远古图书馆内部，高耸如崖的书架，光柱中浮尘飞舞"
+ },
+ "escalation": "battle",
+ "format": "16:9",
+ "clips": 1,
+ "clip_length": 15,
+ "resolution": "720p",
+ "palette": {
+  "hero": "orange fire",
+  "enemy": "icy blue-white"
+ }
+}

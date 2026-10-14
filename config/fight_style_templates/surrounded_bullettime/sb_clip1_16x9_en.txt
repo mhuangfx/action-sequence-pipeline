@@ -1,0 +1,16 @@
+[16:9 DRAFT — orchestrator review before paid gen]
+Create a HORIZONTAL 4x4 storyboard grid (16 panels), each panel a WIDE 16:9 landscape cell, with thin black borders and a small bold number 1-16 in the top-left corner of each panel. Minimalist FLAT 2D SILHOUETTE style: a {{PALETTE_HERO}} silhouette heroine and dark-grey/black silhouette enemies with faint glowing {{PALETTE_ENEMY}} accents ({{OPPONENT_DESC_EN}}), on plain muted desolate ground suggesting {{ENVIRONMENT_EN}}, no fine detail, no faces.
+
+CRITICAL COMPOSITION RULE for every panel: compose for a WIDE horizontal frame — use the full width and environmental DEPTH. The heroine reads in frame ringed by enemies spread ACROSS the width and arrayed into depth (some near foreground, some far background, encircling her); use lateral and depth motion (enemies lunging in from both sides and from the back of frame, the heroine pivoting and sweeping across the width) instead of a centered vertical stack. Let the desolate environment sprawl at the edges.
+
+COLD OPEN — lead with the PAYOFF at FULL SPEED, then escalate PAST it. Do NOT open on a slow establishing shot, and do NOT open in slow motion / bullet-time / freeze-frame — the first beat must read FAST:
+- Panel 1: OPEN AT PEAK, FULL SPEED — the heroine caught at the apex of a strike, a huge {{PALETTE_HERO}} aura-detonation blasting outward, enemy silhouettes hurled away across the width with hard motion streaks and flying debris. Immediate maximum-energy ACTION in the very first frame — fast and explosive, this is the hook.
+- Panel 2: continue at full speed — a dynamic lower/closer angle as the blast throws the nearest enemies off their feet, the heroine already whipping into her next strike, everything in fast motion.
+- Panel 3: the camera pulls wide to reveal she is fully encircled — fresh enemy silhouettes ringed across the width and receding into the depth all around her — the brawl raging on at full pace.
+- Panels 4-6: fast normal-speed exchange — she blocks and counters, knocking attackers away to either side with {{PALETTE_HERO}} bursts, impacts and debris spraying laterally across the frame.
+- Panels 7-9: enemies lunge in from both flanks and the depth; she pivots low and wide, striking them down as they converge.
+- Panels 10-12: she is swarmed — enemies grappling from every side at once across the frame, forcing her down to one knee at the center of the ring, then she powers out, her {{PALETTE_HERO}} aura flaring.
+- Panels 13-15: the BIGGEST beat — bigger and more explosive than the cold-open detonation — she slams the ground and releases an enormous radial {{PALETTE_HERO}} shockwave that hurls every enemy outward to the frame edges, a wide eruption filling the panel.
+- Panel 16 — END HOT: inside the still-blazing eruption, MANY MORE and BIGGER enemy silhouettes are rising from the depth across the whole width — a far larger wave closing in — the heroine planted at the epicenter mid-motion, energy still at peak, NOT a calm aftermath. This frame is what the next clip echoes.
+
+Vary wide-establishing / medium / extreme-close framings while keeping the horizontal depth rule. Flat silhouette style only, no realism, no faces, no text other than the panel numbers.

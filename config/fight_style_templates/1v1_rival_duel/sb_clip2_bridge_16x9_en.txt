@@ -1,0 +1,18 @@
+[16:9 DRAFT — orchestrator review before paid gen]
+Create a HORIZONTAL 4x4 storyboard grid (16 panels), each panel a WIDE 16:9 landscape cell, with thin black borders and a small bold number 1-16 in the top-left corner of each panel. Minimalist FLAT 2D SILHOUETTE style: a {{PALETTE_HERO}} silhouette heroine, a small dark FALLEN rival silhouette, and later a MUCH LARGER COLOSSAL dark-grey/black silhouette with glowing {{PALETTE_ENEMY}} eye accents, on plain muted desolate ground suggesting {{ENVIRONMENT_EN}}, no fine detail, no faces.
+
+CRITICAL COMPOSITION RULE for every panel: compose for a WIDE horizontal frame — use the full width and environmental DEPTH. Stage figures across the width and into depth (foreground / midground / background layering, low wide horizon, long shadows) rather than a centered vertical stack. The colossus, once formed, is so wide and tall it dominates the frame against the tiny heroine for dramatic scale contrast.
+
+PANEL 1 — TRANSITION CONTINUITY (echo clip 1's HOT ending): reproduce the COMPOSITION of the provided reference image in flat silhouette — keep the exact placement and poses the reference shows (the {{PALETTE_HERO}} heroine driving forward mid-clash, the dark rival being overwhelmed inside the lingering blast). Take ONLY composition and character placement from the reference; ignore its colors and detail. This panel must read as a direct continuation of the previous clip's peak, not a fresh calm scene.
+
+Then the rival, beaten, is REBORN far bigger — a power-surge escalation:
+- Panel 2: the spent blast settles for a beat and the rival collapses; then its shadow bursts and dissolves into erupting darkness as the ground cracks wide — fragments and {{PALETTE_ENEMY}} light surging up and outward across the frame, no full figure yet.
+- Panel 3: a hulking dark mass coalesces out of that eruption, half-formed, rising and spreading across the width of the frame.
+- Panel 4: the COLOSSAL reborn rival fully risen, dominating the frame (several times the heroine's height, broad and hulking, filling the background depth), its glowing {{PALETTE_ENEMY}} eyes — the SAME color of eyes as the fallen rival in clip 1 — burning down at the tiny heroine in the foreground.
+- Panels 5-7: the heroine dodges crushing wide blows that sweep across the frame, dashes laterally, then leaps in toward the colossus.
+- Panels 8-10: she lands a flurry of rapid strikes high on it, is swatted across the frame, and recovers in a crouch at the far side as shockwave rings expand wide.
+- Panels 11-13: both gather full power staged across depth — the colossus charging a {{PALETTE_ENEMY}} blast in the background, the heroine charging {{PALETTE_HERO}} power in the foreground, both auras flaring huge.
+- Panels 14-15: a head-on collision of both powers across the frame, then a massive radial explosion blooming wide as she drives her charged strike through its core.
+- Panel 16: the BIGGEST beat LAST — the explosion at maximum filling the whole wide frame, the heroine silhouetted driving through the colossus's center, energy peaking.
+
+Vary wide-establishing / medium / extreme-close framings while keeping the horizontal depth rule; once the colossus has formed, the dramatic size difference must be clearly readable. Flat silhouette style only, no realism, no faces, no text other than the panel numbers.

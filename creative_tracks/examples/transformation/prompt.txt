@@ -1,0 +1,24 @@
+[References]
+Image 1 is the character sheet of the old blacksmith at the start. Image 2 is the character sheet of his final form, a giant bronze golem. Match both exactly: the same face, beard, build and clothing as the blacksmith, and the same shape, plates, face mask and glowing seams as the golem.
+[Subject settings]
+The blacksmith: about 65, broad heavy shoulders, thick scarred forearms, a thick singed grey beard, bald crown, warm brown eyes, a sweat-darkened off-white linen shirt with rolled sleeves, a scorched leather apron, brown wool trousers, worn boots. The golem: the same man transformed, about 3 metres tall, far larger and heavier than a human, built from thick riveted plates of hammered bronze armour, huge pauldrons, a barrel chest, fists like anvils, molten forge-orange light glowing in the seams, a cast-bronze mask of his own face and beard with glowing orange eyes. The girl: about 7, a red headscarf, a small basket of apples; alone in the middle of the street. The wagon: a heavy wooden cart piled high with grey quarry stone. Townsfolk at the market stalls.
+Environment: a sunlit hillside market town in warm late-afternoon light, a steep cobbled street, stone houses with tiled roofs, cloth awnings and market stalls, his open-air forge with an anvil and a glowing crucible of molten bronze.
+Screen direction (keep it the same in every shot): the street runs from the top of the hill in the background down toward the camera. The wagon comes down from the top of the street. The girl stands in the middle of the street, between the wagon and the camera. The golem moves between the girl and the wagon and faces UP the street, toward the wagon.
+[Overall style]
+Stylized painterly 3D animation, the look of a high-end animated feature film: hand-painted textures with visible brush strokes on skin, cloth, stone and metal, painted light and shadow, strong graphic shapes, rich warm colour, cinematic lighting. Not photoreal, not flat anime, not a video game. 16:9.
+[Exclude]
+Text, subtitles, logos, watermarks, blood, extra limbs, steel or chrome, blue light.
+[Shots]
+Shot 1 (0-3 s): Wide shot, slow push-in. The market town in warm sun; the old blacksmith hammers a glowing iron bar at his open forge and sparks fly; the little girl with her apple basket stands in the middle of the street. <market chatter, ringing hammer on anvil>
+Shot 2 (3-5.5 s): Medium shot; he turns at a deep rumble. At the top of the steep street, a heavy wagon of quarry stone breaks loose and starts rolling down toward the girl. <rumble, wood cracking, shouts>
+Shot 3 (5.5-7.5 s): Close-up of his face, hard and certain; he plunges both bare hands into the crucible of molten bronze. <hiss, roar of molten metal>
+Shot 4 (7.5-9.5 s): Extreme close-up, fast push-in on his forearms as molten bronze climbs his arms and hardens into thick riveted plates, sparks flying. <ringing hammer-strike clangs>
+Shot 5 (9.5-11 s): Low angle on his legs as they swell and heavy bronze greaves lock into place; the cobblestones crack under his weight. <stone crunch, metal clang>
+Shot 6 (11-13 s): Fast orbit behind him; his back and shoulders grow huge as massive bronze pauldrons slam into place, forge-orange light glowing in every seam. <deep metal groan>
+Shot 7 (13-15 s): Extreme close-up of his face; his grey beard turns to cast bronze, his eyes ignite forge-orange, and he snaps his head toward the top of the street, eyes locked on the danger. <low furnace roar>
+Shot 8 (15-17 s): Low wide shot from behind the girl, at her height: up the steep street the stone wagon thunders down straight toward her and the camera; she is frozen in the foreground. <rumble, wheels pounding the cobbles>
+Shot 9 (17-18.5 s): Close-up of the girl's face from the front: terrified, eyes wide, frozen; the wagon's shadow grows over her and an apple falls from her basket. <her sharp gasp>
+Shot 10 (18.5-20 s): Wide shot: the 3-metre bronze golem leaps in from the right side of the frame and lands hard between the girl and the wagon, facing up the street toward the wagon, his huge back to the girl and the camera. <ground-shaking landing>
+Shot 11 (20-24 s): Low side angle: the wagon slams into his outstretched bronze hands; he roars and braces, sliding back as his heels plough up the cobblestones, stones spilling over his shoulders; he pushes against it with all his strength and stops it dead, a few steps from the girl. <huge impact, his roar, stone grinding, metal straining>
+Shot 12 (24-26.5 s): Medium shot of the girl, still trembling and scared, looking up at the giant golem as he turns toward her, dust drifting in the sun. <dust settling, her shaky breath>
+Shot 13 (26.5-30 s): Medium shot: the golem kneels down to her height and slowly opens his huge bronze hand; her fallen apple rests in his palm, held out to her; her fear softens into a small smile. <soft metal creak, warm swelling music>

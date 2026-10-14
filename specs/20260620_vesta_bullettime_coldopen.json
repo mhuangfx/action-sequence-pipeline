@@ -1,0 +1,30 @@
+{
+ "id": "20260620_vesta_bullettime_coldopen",
+ "hero": "vesta",
+ "hero_desc_zh": "火红长发，黑铁鎏金符文战甲，火焰光晕环绕周身，面颊符文发光，以烈焰为武器（火焰冲击波、熔岩爆炸、烈焰横扫）",
+ "fight_style": "surrounded_bullettime",
+ "opponent": {
+  "mode": "prompt",
+  "desc_zh": "由黑冰与寒雾构成的亡灵剑士，双眼透出冰蓝寒光，刃上拖曳霜雾",
+  "desc_en": "undead swordsman of black ice and freezing mist, ice-blue glowing eyes, frost trailing off its blade",
+  "ref_ts": "0000000000"
+ },
+ "environment": {
+  "desc_en": "ruined overgrown city, collapsed towers swallowed by vines and deep moss",
+  "desc_zh": "被藤蔓与厚苔吞没的废墟之城，坍塌的高塔残骸"
+ },
+ "escalation": "bridge_wave",
+ "format": "16:9",
+ "clips": 2,
+ "clip_length": 15,
+ "resolution": "720p",
+ "palette": {
+  "hero": "orange fire",
+  "enemy": "icy blue-white"
+ },
+ "delivery_check": {
+  "question": "Does the video OPEN on a high-intensity action beat in the first ~2 seconds — the hero already mid-action with an energy burst/detonation hurling enemies outward — rather than a slow establishing or build-up shot?",
+  "expected": "yes",
+  "when": "first_2s"
+ }
+}

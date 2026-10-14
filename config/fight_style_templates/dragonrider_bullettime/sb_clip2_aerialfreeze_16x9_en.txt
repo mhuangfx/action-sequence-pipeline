@@ -1,0 +1,11 @@
+[16:9 DRAFT — orchestrator review before paid gen]
+Create a HORIZONTAL 4x4 storyboard grid (16 panels), each panel a WIDE 16:9 landscape cell, with thin black borders and a small bold number 1-16 in the top-left corner. Minimalist FLAT 2D SILHOUETTE style: an {{PALETTE_HERO}} silhouette of a DRAGON RIDER (small tribal rider on a large winged dragon, read as ONE unit) in an aerial BULLET-TIME sequence over a storm-dark sky above an erupting volcanic massif, a colossal {{PALETTE_ENEMY}} blast and debris field. No fine detail, no faces.
+
+CRITICAL COMPOSITION RULE for every panel: WIDE horizontal frames using full width and DEPTH; a 3RD-PERSON FOLLOW-CAM on the dragon. The frozen debris and shockwave span the ENTIRE width like a constellation; the dragon is foreground/mid, the colossal threat fills background depth. Lateral, depth-led staging — never a centered vertical stack.
+
+TIMING STRUCTURE — render the three phases across the 16 panels:
+- Panels 1-4 (FULL SPEED, continues the previous clip's hot ending): the dragon banks straight into a colossal {{PALETTE_ENEMY}} blast surging up; a massive wall of molten boulders, debris and a shockwave-ring rushes toward them at full speed, camera chasing.
+- Panels 5-11 (BULLET-TIME / TIME FREEZE): the entire blast FREEZES — molten boulders, shrapnel and the shockwave-ring hang DEAD STILL, suspended across the full width like a constellation. ONLY the dragon and its {{PALETTE_HERO}} fire still move, weaving and threading between the frozen impacts at normal speed; the camera slowly orbits the dragon; the rider gathers a charging breath, {{PALETTE_HERO}} firelight swelling. The frozen field stays motionless panel to panel — only the dragon's position and the orbiting camera change.
+- Panels 12-16 (TIME RESUMES — MAX BLAST): time snaps back; the dragon dives and channels a full charged plume of {{PALETTE_HERO}} dragonfire into the CORE of the frozen blast / the colossal threat; all suspended debris is blown outward by a radial shockwave to the frame edges; an enormous {{PALETTE_HERO}} explosion erupts at center — the BIGGEST burst saved for the final panels.
+
+Vary behind-follow / alongside / orbiting framings. Flat silhouette only, no realism, no faces, no text other than the panel numbers.

@@ -1,0 +1,17 @@
+[16:9 DRAFT — orchestrator review before paid gen]
+Create a HORIZONTAL 4x4 storyboard grid (16 panels), each panel a WIDE 16:9 landscape cell, with thin black borders and a small bold number 1-16 in the top-left corner of each panel. Minimalist FLAT 2D SILHOUETTE style: a {{PALETTE_HERO}} silhouette heroine and a same-scale dark-grey/black silhouette rival duelist with small glowing {{PALETTE_ENEMY}} accents ({{OPPONENT_DESC_EN}}), on plain muted desolate ground suggesting {{ENVIRONMENT_EN}}, no fine detail, no faces.
+
+CRITICAL COMPOSITION RULE for every panel: compose for a WIDE horizontal frame — use the full width and environmental DEPTH. Both fighters readable in frame together; stage them across the width and into depth (one nearer camera, one further back; foreground / midground / background layering; a low wide horizon line; long cast shadows and ground cracks racing toward the vanishing point). Use lateral motion across the frame (dashes, sweeps, knockbacks sending a fighter skidding to the far side) AND scale/depth, not a centered vertical stack. Let the environment breathe at the edges.
+
+COLD OPEN — a fierce, evenly-matched 1v1 duel; lead with the clash at FULL SPEED. Do NOT open on a slow establishing two-shot, and do NOT open in slow motion / freeze:
+- Panel 1: OPEN AT PEAK, FULL SPEED — the two blur together mid-frame in an explosive clash, sparks of {{PALETTE_HERO}} vs {{PALETTE_ENEMY}} spraying laterally at the point of impact, both caught mid-strike with hard motion streaks. Immediate high-energy action in the very first frame — fast, this is the hook.
+- Panels 2-4: the exchange rages on at full pace — they trade rapid strikes and parries across the frame, a fast wide beat letting the vast arena read between blows.
+- Panels 5-6: the rival gains ground — a sweeping {{PALETTE_ENEMY}} slash knocks the heroine skidding sideways to the far edge of the frame, dust kicking up behind her.
+- Panels 7-8: the heroine counters — she ducks under a strike and answers with a rising {{PALETTE_HERO}} uppercut burst that launches the rival up and back into the depth of the frame.
+- Panels 9-10: airborne clash framed wide — both leap and collide off-center high in frame, {{PALETTE_HERO}} and {{PALETTE_ENEMY}} energy bursting in a cross-shaped flare, the arena sprawling below.
+- Panels 11-12: they land at opposite depths and circle, the cracked smoking ground spanning between them; both gather power, auras flaring large, camera low and wide.
+- Panels 13-14: full-power charge — one rockets across the frame while the other charges from the opposite depth, each trailing a long lateral streak of {{PALETTE_HERO}} or {{PALETTE_ENEMY}} light.
+- Panel 15: the BIGGEST beat — a massive point-blank collision of both powers, a huge radial explosion blooming wide across the frame, the two silhouettes locked at its core.
+- Panel 16 — END HOT: freeze on the peak of impact, NOT a calm aftermath — both fighters mid-clash inside the blast, energy at maximum, the heroine driving forward; this hot frame is what the next clip echoes.
+
+Vary wide-establishing / medium / extreme-close framings while keeping the horizontal depth rule. Flat silhouette style only, no realism, no faces, no text other than the panel numbers.

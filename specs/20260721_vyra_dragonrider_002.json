@@ -1,0 +1,31 @@
+{
+ "id": "20260721_vyra_dragonrider_002",
+ "generator": "hailuo",
+ "gen_path": "hailuo",
+ "char_ref_version": "v2",
+ "hero": "vyra",
+ "hero_desc_zh": "野性部落龙骑士少女，脏辫缠骨珠与龙牙，脸颊龙鳞部落纹身、眼部黑色战纹，铜色飞行护目镜，身着粗犷兽皮鳞甲，骑乘一头巨大的战龙；龙喉喷吐余烬橙色龙焰",
+ "casual_opening_zh": null,
+ "casual_opening_en": null,
+ "fight_style": "dragonrider_flythrough",
+ "opponent": {
+  "mode": "prompt",
+  "key": "abyssal_leviathan",
+  "desc_zh": "自深海崛起的庞大深渊海中巨灵——遍布藤壶的黑石与沉铜之躯，巨大的触臂，透出深蓝海渊光芒的裂隙与双眼",
+  "desc_en": "a colossal abyssal sea-titan rising from the deep — a barnacled leviathan of black stone and drowned bronze, vast tentacled limbs, glowing abyssal teal-blue cracks and eyes",
+  "ref_ts": "0000000000"
+ },
+ "environment": {
+  "desc_en": "a vast naval battle on a stormy sea, a fleet of tall warships with towering masts and sails at dusk",
+  "desc_zh": "风暴海面上的大规模海战，黄昏时分扬帆林立的高大战船舰队"
+ },
+ "escalation": "aerialboss",
+ "format": "16:9",
+ "clips": 2,
+ "clip_length": 15,
+ "resolution": "720p",
+ "palette": {
+  "hero": "ember-orange",
+  "enemy": "abyssal teal-blue"
+ }
+}

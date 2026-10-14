@@ -1,0 +1,25 @@
+{
+ "id": "20260616_morta_group_001",
+ "hero": "morta",
+ "hero_desc_zh": "暗影死神形态：暗影恶魔战甲，手持燃烧幽绿鬼火的长柄镰刀，周身缠绕翻涌暗影与幽绿火光，以横扫的镰刀弧光与暗影爆发为武器",
+ "fight_style": "one_vs_group_vertical",
+ "opponent": {
+  "mode": "prompt",
+  "desc_zh": "暗色巨石铸成的鎏金傀儡巨像，符文刻痕间流淌熔金光芒",
+  "desc_en": "gilded colossus construct of dark stone, molten-gold light flowing between its carved runes",
+  "ref_ts": "0000000000"
+ },
+ "environment": {
+  "desc_en": "half-drowned ancient temple, dark waist-deep water, broken sinking pillars",
+  "desc_zh": "半淹没的远古神殿，深暗的及腰积水与断裂下沉的石柱"
+ },
+ "escalation": "bridge_horde",
+ "format": "16:9",
+ "clips": 2,
+ "clip_length": 15,
+ "resolution": "720p",
+ "palette": {
+  "hero": "ghost-green wraithfire",
+  "enemy": "molten gold"
+ }
+}

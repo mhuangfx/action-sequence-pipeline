@@ -1,0 +1,18 @@
+[16:9 DRAFT — orchestrator review before paid gen]
+Create a HORIZONTAL 4x4 storyboard grid (16 panels), WIDE 16:9 cells, thin black borders, a small bold number 1-16 top-left. Minimalist FLAT 2D SILHOUETTE style: an {{PALETTE_HERO}} silhouette dragon rider — a small tribal rider on a large winged dragon, read as ONE unit — and a MUCH LARGER COLOSSAL dark-grey/black sea-titan boss silhouette with glowing {{PALETTE_ENEMY}} accents ({{OPPONENT_DESC_EN}}), rising from a stormy sea among burning warship silhouettes. No fine detail, no faces.
+
+CRITICAL COMPOSITION RULE: WIDE horizontal frames using full width and DEPTH; the colossus occupies the background depth and fills the frame width while the dragon-and-rider stay SMALL in the foreground/midground — the scale difference must read clearly and stay readable throughout. Keep the 3rd-person FOLLOW-CAM on the dragon as it flies; lateral and depth staging, not centered-stacked.
+
+PANEL 1 — TRANSITION CONTINUITY: reproduce the COMPOSITION of the provided reference image in flat silhouette — the dragon driving forward toward the lens, unleashing a huge {{PALETTE_HERO}} dragonfire blast down over the burning fleet, exactly as the reference shows. Take ONLY composition and placement; ignore its colors and detail.
+
+Then the sea erupts and a COLOSSAL boss rises — a power-surge escalation:
+- Panel 2: the sea heaves and bursts upward in a wall of {{PALETTE_ENEMY}} water and abyssal light, warships flung like splinters, no full figure yet.
+- Panel 3: a vast dark mass coalesces along the horizon, half-risen, swelling across the full width, dwarfing the ships.
+- Panel 4: the COLOSSAL sea-titan fully risen — filling the frame width and towering ABSURDLY over the tiny dragon (many times its size), its glowing {{PALETTE_ENEMY}} eyes — the SAME color as before — fixed on the rider.
+- Panels 5-7: the titan swings a colossal arm; the dragon banks and weaves through the gap as the blow smashes the fleet, sending huge chunks of hull and {{PALETTE_ENEMY}} debris tumbling across the frame, the follow-cam dodging with them.
+- Panels 8-10: the dragon threads a collapsing forest of toppling masts and falling wreckage, strafing {{PALETTE_HERO}} fire across the titan's flank as it climbs alongside it.
+- Panels 11-13: the titan charges a massive {{PALETTE_ENEMY}} blast in the depth while the dragon climbs high and gathers an enormous {{PALETTE_HERO}} breath in the foreground, both auras flaring huge.
+- Panels 14-15: the dragon rockets down at the titan's core, driving the charged {{PALETTE_HERO}} dragonfire through it as a massive radial explosion blooms wide across the width.
+- Panel 16 — END HOT: freeze on the peak of impact, the dragonfire landing inside the blast, energy at maximum, the tiny dragon driving through the colossus.
+
+Vary wide / medium / extreme-close framings; once the titan forms the scale difference must stay readable. Flat silhouette only, no realism, no faces, no text other than panel numbers.

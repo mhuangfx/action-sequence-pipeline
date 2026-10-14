@@ -1,0 +1,13 @@
+Create a VERTICAL 4x4 storyboard grid (16 panels), each panel a TALL 9:16 portrait cell, with thin black borders and a small bold number 1-16 in the top-left corner of each panel. Minimalist FLAT 2D SILHOUETTE style: a SMALL {{PALETTE_HERO}} silhouette heroine and dark-grey/black silhouette enemies with faint glowing {{PALETTE_ENEMY}} accents ({{OPPONENT_DESC_EN}}), on plain muted desolate ground suggesting {{ENVIRONMENT_EN}}, no fine detail, no faces.
+
+CRITICAL COMPOSITION RULE for every panel: compose for a TALL vertical frame — all action stacked in the CENTER COLUMN of each panel. Subjects centered horizontally; use vertical depth (enemy above/below, leaping over, crashing down from above, low-angle looking up, high-angle looking down) instead of side-by-side spread. Never place two figures at opposite left/right edges.
+
+The fight, escalating to the biggest beat last:
+- Panel 1: heroine centered, low stance, {{PALETTE_HERO}} glow at her fists, enemy silhouette looming in the background depth directly behind/above her.
+- Panels 2-4: enemies lunge at her one at a time from the depth of frame; she strikes each down with {{PALETTE_HERO}} bursts, impacts framed tall (debris flying up).
+- Panels 5-7: she leaps UP the frame — vertical jump, enemies below her, she rains {{PALETTE_HERO}} power downward.
+- Panels 8-10: a larger enemy crashes down from the TOP of frame; she braces and blocks, shockwave rings expanding around the center.
+- Panels 11-13: vertical duel exchange — she is knocked down the frame, recovers in a crouch, then rockets upward trailing {{PALETTE_HERO}} light.
+- Panels 14-16: the BIGGEST beat LAST — she dives down from the top of frame with a massive charged strike into the enemy at the bottom center, a huge radial explosion filling the final panel.
+
+Vary tall-wide / medium / extreme-close framings while keeping the center-column rule. Flat silhouette style only, no realism, no faces, no text other than the panel numbers.

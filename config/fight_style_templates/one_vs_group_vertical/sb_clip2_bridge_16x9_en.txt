@@ -1,0 +1,16 @@
+[16:9 DRAFT — orchestrator review before paid gen]
+(Style key is "one_vs_group_vertical" for compatibility; this 16:9 variant composes HORIZONTALLY.)
+Create a HORIZONTAL 4x4 storyboard grid (16 panels), each panel a WIDE 16:9 landscape cell, with thin black borders and a small bold number 1-16 in the top-left corner of each panel. Minimalist FLAT 2D SILHOUETTE style: a {{PALETTE_HERO}} silhouette heroine, a HORDE of dark-grey/black silhouette enemies with faint glowing {{PALETTE_ENEMY}} accents ({{OPPONENT_DESC_EN}}), and ONE hulking champion enemy roughly twice her height, on plain muted desolate ground suggesting {{ENVIRONMENT_EN}}, no fine detail, no faces.
+
+CRITICAL COMPOSITION RULE for every panel: compose for a WIDE horizontal frame — use the full width and environmental DEPTH. The horde spreads across the width and recedes into depth; the champion dominates the background depth, towering over the foreground heroine for scale contrast. Use lateral and depth motion rather than a centered vertical stack.
+
+PANEL 1 — TRANSITION CONTINUITY (echo clip 1's HOT ending): reproduce the COMPOSITION of the provided reference image in flat silhouette — keep the exact placement and pose of the heroine driving through the blast at center and the surrounding aftermath, as the reference shows. Take ONLY composition and character placement from the reference; ignore its colors and detail. This panel must read as a direct continuation of the previous clip's peak.
+
+Then the horde ESCALATES:
+- Panels 2-4: the ground splits across the frame — a far LARGER horde of enemy silhouettes erupts from below and rises from the depth across the whole width, and ONE hulking champion (twice her height, glowing {{PALETTE_ENEMY}} eyes — the SAME color of eyes as the enemies in clip 1) rises in the background depth, towering over her.
+- Panels 5-7: the horde swarms her from both flanks and the depth at once; she carves through them with sweeping {{PALETTE_HERO}} bursts, bodies silhouetted flying outward to the edges.
+- Panels 8-10: the champion charges in from the depth with a massive sweeping blow across the frame; she blocks, is driven skidding sideways, and recovers in a crouch at the edge as wide shockwave rings expand.
+- Panels 11-13: she dashes back in through the swarm, scattering enemies laterally, and gathers a single massive {{PALETTE_HERO}} charge, aura flaring huge.
+- Panels 14-16: the BIGGEST beat LAST — she drives the fully charged strike into the champion at frame center, a colossal radial explosion blooming wide and engulfing the final panels, the whole horde silhouetted blasted out to the edges.
+
+Vary wide-establishing / medium / extreme-close framings while keeping the horizontal depth rule; the champion's size advantage must be clearly readable. Flat silhouette style only, no realism, no faces, no text other than the panel numbers.

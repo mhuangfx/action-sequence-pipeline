@@ -1,0 +1,64 @@
+{
+ "_note": "Persistent opponent registry for spec opponent.mode='ref'. asset_ts is the Hailuo asset TIMESTAMP (the _<ts>. filename suffix) accepted by generate_hailuo.js --favorite-opponent (raw values select under the 'All' filter). Promote any prompt-born character here after extraction (frame crop -> GPT Image 2 sheet) per docs/expansion_test_findings_2026-06-10.md T1c.",
+ "opponents": {
+  "nox": {
+   "display_name": "Nox, the Shadow Nemesis",
+   "asset_ts": "0000000000",
+   "sheet": "characters/villain01_nox/sheet_extract_gpt/ref_nox_v3.png",
+   "sheet_history": {
+    "v1_violet": "characters/villain01_nox/sheet_extract_gpt/sheet.png",
+    "v2_red": "characters/villain01_nox/sheet_extract_gpt/ref_nox_v2.png",
+    "note": "v3 GREEN canonical 2026-07-03 (owner): green contrasts Vesta's orange fire; purple reserved for Morta; red collided with Vesta"
+   },
+   "desc_zh": "全身焦黑树皮质感的类人形体，被幽绿色火焰环绕，细长的绿色发光双眼，胸口有一个冒着绿色余烬旋涡的黑暗空洞，手指细长如利爪，轮廓不断剥离黑烟与火星",
+   "desc_en": "charred obsidian-bark humanoid wreathed in ghostly green flame, narrow glowing green eyes, hollow smoldering void in the chest with a faint green ember swirl, long claw-like fingers, dark smoke and embers peeling off its outline",
+   "palette": "spectral green flame",
+   "signature_marks": [
+    "hollow chest void w/ green ember swirl",
+    "green glowing eyes",
+    "ghostly green flame wreath",
+    "claw-like fingers"
+   ],
+   "first_appeared": "v2v_test/restyled/chain30_v3.mp4",
+   "extracted": "2026-06-10",
+   "voice": {
+    "file": "characters/villain01_nox/voice_nox.mp3",
+    "minted": "2026-07-03",
+    "model": "bytedance/seed-audio-1.0",
+    "mint_text": "A very deep, gravelly male voice with a faint metallic echo, slow and calm with quiet menace, says: <line>",
+    "usage": "pass as reference_audios[] on seedance-2.0/reference-to-video (owner-verified: voice holds across separate gens); keep any future mint <=15s or Seedance 400s with DurationTooLong",
+    "delivery": "MOUTHLESS pulse-speech (owner-approved): no mouth ever — green eyes flare and the hollow chest void pulses/swirls in rhythm with the voice, smoke agitates with tone. Native gens (no audio ref) invent a mouth — always pin with voice ref + mouthless prompt language.",
+    "persona": "theatrical calm menace with dry amusement; smug, unhurried, finds the heroes entertaining"
+   }
+  },
+  "rime": {
+   "display_name": "Rime, the Frozen Nemesis",
+   "asset_ts": "0000000000",
+   "sheet": "characters/villain02_rime/ref_rime_v1.png",
+   "sheet_history": {
+    "note": "GENERATED (not extracted) 2026-07-04 via openai/gpt-image-2/text-to-image — first per-episode villain per owner direction; concept v3 'aurora wraith' picked from 3 candidates (output/villain_concepts_20260704/); prompt at characters/villain02_rime/prompt_character_sheet.md. Color lane: ICE-BLUE (green=Nox, orange=Vesta, purple=Morta)"
+   },
+   "desc_zh": "由暗色风暴寒冰构成的细长幽灵般男性人形，冰壳深处流动着淡蓝白色极光纹路，光滑无面目的冰质头部上有两道细长的冰蓝色发光眼缝，胸口嵌着一枚从冰层深处发出冷蓝白光的六角霜星晶核，肩后拖着如落雪碎雾般的破碎冰披风，指尖是细长优雅的晶体利爪，周身缓缓环绕漂浮的雪晶与寒雾",
+   "desc_en": "slender wraith-like male humanoid of dark storm-ice veined with slow-moving pale aurora light, smooth featureless ice head with two narrow glowing ice-blue eye-slits, jagged six-pointed frost-star core glowing cold blue-white deep in his chest, long tattered mantle of frozen mist trailing like falling snow, elongated elegant crystalline claws, snow crystals and cold vapor drifting around him",
+   "palette": "glacier blue / blue-white aurora",
+   "signature_marks": [
+    "six-pointed frost-star chest core",
+    "ice-blue eye-slits on featureless ice face",
+    "tattered frozen-mist mantle",
+    "aurora veins under dark storm-ice plates",
+    "orbiting snow crystals"
+   ],
+   "first_appeared": null,
+   "extracted": "2026-07-04 (generated, T2 episodic test)",
+   "voice": {
+    "file": "characters/villain02_rime/voice_rime.mp3",
+    "minted": "2026-07-04",
+    "model": "bytedance/seed-audio-1.0",
+    "mint_text": "A low cold male voice, slow and glacial, quiet menace, faint icy echo: <line>",
+    "usage": "12.7s canonical clip (loudnorm-boosted post-mint: 'low quiet' voice designs come out near-silent, max -30dB raw — always loudnorm I=-18 before use); clone future lines via references:[{audio_data:<raw b64>}]; keep mints <=15s. ALT: voice_rime_imgref.mp3 = experimental image-ref mint (voice styled from sheet portrait via references:[{image_data}]) — worked first try, good levels; candidate zero-touch path for per-episode villain automation",
+    "delivery": "MOUTHLESS pulse-speech (Nox convention carried over): featureless ice face — eye-slits flare and the chest frost-star pulses cold light in rhythm with the voice; frost-mist breath curls with each phrase",
+    "persona": "glacial patience, elegant contempt; speaks slowly and softly, certain of the outcome; winter-is-inevitable fatalism"
+   }
+  }
+ }
+}

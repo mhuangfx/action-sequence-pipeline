@@ -1,0 +1,16 @@
+[16:9 DRAFT — orchestrator review before paid gen]
+(Style key is "one_vs_group_vertical" for compatibility; this 16:9 variant composes HORIZONTALLY — the "vertical" in the name no longer dictates framing.)
+Create a HORIZONTAL 4x4 storyboard grid (16 panels), each panel a WIDE 16:9 landscape cell, with thin black borders and a small bold number 1-16 in the top-left corner of each panel. Minimalist FLAT 2D SILHOUETTE style: a {{PALETTE_HERO}} silhouette heroine and dark-grey/black silhouette enemies with faint glowing {{PALETTE_ENEMY}} accents ({{OPPONENT_DESC_EN}}), on plain muted desolate ground suggesting {{ENVIRONMENT_EN}}, no fine detail, no faces.
+
+CRITICAL COMPOSITION RULE for every panel: compose for a WIDE horizontal frame — use the full width and environmental DEPTH. The heroine reads against a group of enemies spread ACROSS the width and arrayed into depth (some near, some far); use lateral and depth motion (enemies lunging from both sides and from the back of frame, the heroine charging, sweeping and being knocked across the width) instead of a centered vertical stack. Let the desolate environment sprawl at the edges.
+
+COLD OPEN — lead with the action at FULL SPEED, then escalate to the biggest beat last. Do NOT open on a slow establishing shot, and do NOT open in slow motion / freeze:
+- Panel 1: OPEN AT PEAK, FULL SPEED — the heroine already mid-charge through the enemy line, a {{PALETTE_HERO}} burst smashing the nearest foes off their feet across the width, debris and hard motion streaks flying. Immediate high-energy action in the very first frame — fast, this is the hook.
+- Panels 2-4: she keeps tearing forward at full pace — enemies lunge from the depth and flanks, she strikes each down with {{PALETTE_HERO}} bursts, impacts and debris spraying laterally across the frame.
+- Panels 5-7: she charges forward across the frame, cutting through the front rank, enemies scattering to either side.
+- Panels 8-10: a larger enemy charges in from the far depth; she braces and blocks, wide shockwave rings expanding across the ground.
+- Panels 11-13: exchange across the width — she is knocked skidding sideways, recovers in a crouch at the edge, then dashes back in trailing {{PALETTE_HERO}} light.
+- Panels 14-15: the BIGGEST beat — she gathers a massive charged strike and drives it into the cluster of enemies, a huge radial explosion blooming wide across the frame, bodies silhouetted flung to the edges.
+- Panel 16 — END HOT: freeze at the peak of the blast, the heroine driving through at center, energy at maximum and enemies mid-flight, NOT a calm aftermath. This frame is what the next clip echoes.
+
+Vary wide-establishing / medium / extreme-close framings while keeping the horizontal depth rule. Flat silhouette style only, no realism, no faces, no text other than the panel numbers.

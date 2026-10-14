@@ -1,0 +1,14 @@
+Create a VERTICAL 4x4 storyboard grid (16 panels), each panel a TALL 9:16 portrait cell, with thin black borders and a small bold number 1-16 in the top-left corner of each panel. Minimalist FLAT 2D SILHOUETTE style: a SMALL {{PALETTE_HERO}} silhouette heroine and a SAME-SIZED dark-grey/black silhouette nemesis with small glowing {{PALETTE_ENEMY}} accents ({{OPPONENT_DESC_EN}}), on plain muted desolate ground suggesting {{ENVIRONMENT_EN}}, no fine detail, no faces.
+
+CRITICAL COMPOSITION RULE for every panel: compose for a TALL vertical frame — all action stacked in the CENTER COLUMN of each panel. Subjects centered horizontally; use vertical depth (the nemesis diving from the top of frame, the heroine leaping up the frame, low-angle looking up, high-angle looking down) instead of side-by-side spread. Never place the two fighters at opposite left/right edges.
+
+A fast, decisive fight the heroine WINS, building to the finishing blow last:
+- Panel 1: face-off staged in vertical depth — the nemesis looming in the background depth directly behind/above the heroine, both in low stances, energy flickering.
+- Panels 2-4: rapid opening exchange at center frame — strikes, parries, sparks of {{PALETTE_HERO}} vs {{PALETTE_ENEMY}}.
+- Panels 5-7: the nemesis presses hard — the heroine is knocked DOWN the frame, skids, and recovers in a crouch.
+- Panels 8-10: the momentum flips — she reads its dive from the TOP of frame, sidesteps, and answers with rising {{PALETTE_HERO}} counters that stagger it.
+- Panels 11-13: she dominates — chained strikes drive the nemesis down the center column, its silhouette cracking and leaking {{PALETTE_ENEMY}} light.
+- Panels 14-15: the BIGGEST beat — she charges a blazing orb of {{PALETTE_HERO}} power and drives the finishing blow through the nemesis in a huge tall-framed explosion.
+- Panel 16: AFTERMATH VICTORY POSE — the heroine stands centered in a wide victorious stance, one arm raised holding a glowing {{PALETTE_HERO}} orb overhead; the defeated nemesis collapsed low at the bottom of the frame, faint {{PALETTE_ENEMY}} glow fading.
+
+Vary tall-wide / medium / extreme-close framings while keeping the center-column rule. Flat silhouette style only, no realism, no faces, no text other than the panel numbers.

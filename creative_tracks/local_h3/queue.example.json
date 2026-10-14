@@ -1,0 +1,96 @@
+[
+ {
+  "name": "ovn_01_c2_board_parkour",
+  "prompt-file": "creative_tracks/local_h3/prompts/01_c2_board_parkour.txt",
+  "ref-image": [
+   "creative_tracks/d1_action/board/v7/board_proposed.png",
+   "creative_tracks/d1_action/refs/char_v1/char_v1_1.png"
+  ],
+  "seconds": 15,
+  "seed": 770809,
+  "out-dir": "creative_tracks/local_h3/renders"
+ },
+ {
+  "name": "ovn_02_c2_ref_parkour_onetake",
+  "prompt-file": "creative_tracks/local_h3/prompts/02_c2_ref_parkour_onetake.txt",
+  "ref-image": [
+   "creative_tracks/d1_action/refs/char_v1/char_v1_1.png"
+  ],
+  "seconds": 15,
+  "seed": 770809,
+  "out-dir": "creative_tracks/local_h3/renders"
+ },
+ {
+  "name": "ovn_03_c1_board",
+  "prompt-file": "creative_tracks/local_h3/prompts/03_c1_board.txt",
+  "ref-image": [
+   "creative_tracks/d7_opener/video3/upload/Image1.png",
+   "creative_tracks/d7_opener/video3/upload/Image3.png"
+  ],
+  "seconds": 15,
+  "seed": 770809,
+  "out-dir": "creative_tracks/local_h3/renders"
+ },
+ {
+  "name": "ovn_04_c1_ref",
+  "prompt-file": "creative_tracks/local_h3/prompts/04_c1_ref.txt",
+  "ref-image": [
+   "creative_tracks/d7_opener/video3/upload/Image3.png"
+  ],
+  "seconds": 15,
+  "seed": 770809,
+  "out-dir": "creative_tracks/local_h3/renders"
+ },
+ {
+  "name": "ovn_05_c2_end_board_parkour",
+  "prompt-file": "creative_tracks/local_h3/prompts/05_c2_end_board_parkour.txt",
+  "ref-image": [
+   "creative_tracks/local_h3/boards/c2_end_p7-9.png",
+   "creative_tracks/d1_action/refs/char_v1/char_v1_1.png"
+  ],
+  "seconds": 15,
+  "seed": 770809,
+  "out-dir": "creative_tracks/local_h3/renders"
+ },
+ {
+  "name": "ovn_06_c2_end_ref_parkour_onetake",
+  "prompt-file": "creative_tracks/local_h3/prompts/06_c2_end_ref_parkour_onetake.txt",
+  "ref-image": [
+   "creative_tracks/d1_action/refs/char_v1/char_v1_1.png"
+  ],
+  "seconds": 15,
+  "seed": 770809,
+  "out-dir": "creative_tracks/local_h3/renders"
+ },
+ {
+  "name": "ovn_07_c2_ref_parkour_onetake_s2",
+  "prompt-file": "creative_tracks/local_h3/prompts/07_c2_ref_parkour_onetake_s2.txt",
+  "ref-image": [
+   "creative_tracks/d1_action/refs/char_v1/char_v1_1.png"
+  ],
+  "seconds": 15,
+  "seed": 4242,
+  "out-dir": "creative_tracks/local_h3/renders"
+ },
+ {
+  "name": "ovn_08_c2_end_ref_parkour_onetake_s2",
+  "prompt-file": "creative_tracks/local_h3/prompts/08_c2_end_ref_parkour_onetake_s2.txt",
+  "ref-image": [
+   "creative_tracks/d1_action/refs/char_v1/char_v1_1.png"
+  ],
+  "seconds": 15,
+  "seed": 4242,
+  "out-dir": "creative_tracks/local_h3/renders"
+ },
+ {
+  "name": "ovn_09_c2_board_parkour_s2",
+  "prompt-file": "creative_tracks/local_h3/prompts/09_c2_board_parkour_s2.txt",
+  "ref-image": [
+   "creative_tracks/d1_action/board/v7/board_proposed.png",
+   "creative_tracks/d1_action/refs/char_v1/char_v1_1.png"
+  ],
+  "seconds": 15,
+  "seed": 4242,
+  "out-dir": "creative_tracks/local_h3/renders"
+ }
+]

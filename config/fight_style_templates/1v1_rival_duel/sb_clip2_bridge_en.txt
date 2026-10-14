@@ -1,0 +1,18 @@
+Create a VERTICAL 4x4 storyboard grid (16 panels), each panel a TALL 9:16 portrait cell, with thin black borders and a small bold number 1-16 in the top-left corner of each panel. Minimalist FLAT 2D SILHOUETTE style: a SMALL {{PALETTE_HERO}} silhouette heroine, a small dark FALLEN rival silhouette, and later a MUCH LARGER COLOSSAL dark-grey/black silhouette with glowing {{PALETTE_ENEMY}} eye accents, on plain muted desolate ground suggesting {{ENVIRONMENT_EN}}, no fine detail, no faces.
+
+CRITICAL COMPOSITION RULE for every panel: compose for a TALL vertical frame — all action stacked in the CENTER COLUMN of each panel. Subjects centered horizontally; use vertical depth (the colossus towering above, the heroine leaping up the frame, diving from the top, low-angle looking up, high-angle looking down) instead of side-by-side spread. Never place two figures at opposite left/right edges.
+
+PANEL 1 — TRANSITION CONTINUITY: reproduce the COMPOSITION of the provided reference image in flat silhouette: keep the exact placement and poses of the figures as the reference shows — the {{PALETTE_HERO}} heroine in her end-of-fight stance and the defeated dark rival collapsed low. Take ONLY the composition and character placement from the reference; ignore its colors and detail; keep the action inside the center column of the tall frame.
+
+Then the fallen rival is REBORN far bigger — a power-surge escalation:
+- Panel 2: the fallen rival bursts and dissolves into erupting shadow as the ground cracks — dark fragments and {{PALETTE_ENEMY}} light surging UP the tall frame, no full figure yet.
+- Panel 3: a hulking dark mass coalesces out of that eruption, half-formed, surging upward.
+- Panel 4: the COLOSSAL reborn rival fully risen, filling the top of the tall frame (roughly 3x the heroine's height, broad and hulking), its glowing {{PALETTE_ENEMY}} eyes — the SAME eyes as the fallen rival — looming directly above the tiny heroine.
+
+The second, escalated duel:
+- Panels 5-7: the heroine dodges crushing blows raining down from above, dives low, then leaps UP the frame past a sweeping giant arm.
+- Panels 8-10: she lands a flurry of rapid strikes, is swatted DOWN the frame, and recovers in a crouch as shockwave rings expand around the center.
+- Panels 11-13: both gather full power staged vertically — the colossus charging a {{PALETTE_ENEMY}} blast at the TOP of frame, the heroine charging {{PALETTE_HERO}} power below, both auras flaring huge.
+- Panels 14-16: the BIGGEST beat LAST — a vertical head-on collision of both powers up the center of the frame, then a massive radial explosion engulfing the final panels as the heroine drives her charged strike through its core.
+
+Vary tall-wide / medium / extreme-close framings while keeping the center-column rule; once the giant has formed, the dramatic size difference must be clearly readable. Flat silhouette style only, no realism, no faces, no text other than the panel numbers.

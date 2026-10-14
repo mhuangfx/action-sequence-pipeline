@@ -1,0 +1,15 @@
+Create a VERTICAL 4x4 storyboard grid (16 panels), each panel a TALL 9:16 portrait cell, with thin black borders and a small bold number 1-16 in the top-left corner of each panel. Minimalist FLAT 2D SILHOUETTE style: a SMALL {{PALETTE_HERO}} silhouette heroine and a SAME-SIZED dark-grey/black silhouette rival duelist with small glowing {{PALETTE_ENEMY}} accents ({{OPPONENT_DESC_EN}}), on plain muted desolate ground suggesting {{ENVIRONMENT_EN}}, no fine detail, no faces.
+
+CRITICAL COMPOSITION RULE for every panel: compose for a TALL vertical frame — all action stacked in the CENTER COLUMN of each panel. Subjects centered horizontally; use vertical depth (one fighter looming in the background depth behind/above the other, leaping up the frame, diving from the top, crashing down, low-angle looking up, high-angle looking down) instead of side-by-side spread. Never place the two fighters at opposite left/right edges.
+
+A fierce, evenly-matched 1v1 duel — both are skilled, both land hits, constant motion:
+- Panel 1: the two face off staged in vertical depth — the rival looming in the background depth directly behind/above the heroine — low stances, energy flickering at their hands.
+- Panels 2-4: explosive opening exchange — they blur together trading rapid strikes and parries at center frame, sparks of {{PALETTE_HERO}} vs {{PALETTE_ENEMY}}.
+- Panels 5-6: the rival gains ground — a sweeping {{PALETTE_ENEMY}} slash knocks the heroine DOWN the frame, skidding on her heels.
+- Panels 7-8: the heroine counters — she ducks low under a strike and answers with a rising uppercut burst of {{PALETTE_HERO}} power that launches the rival UP the frame, airborne.
+- Panels 9-10: mid-air clash framed tall — both leap and collide high in the frame, {{PALETTE_HERO}} and {{PALETTE_ENEMY}} energy colliding in a cross-shaped burst.
+- Panels 11-12: they land and circle, staged in vertical depth, the ground cracked and smoking between them; both gather power, auras flaring larger.
+- Panels 13-14: full-power charge — one rockets UP the frame while the other dives from the TOP, each trailing a long streak of {{PALETTE_HERO}} or {{PALETTE_ENEMY}} light.
+- Panels 15-16: the BIGGEST beat LAST — a massive point-blank collision of both powers at center frame, a huge radial explosion engulfing the panel, the two silhouettes locked at its core.
+
+Vary tall-wide / medium / extreme-close framings while keeping the center-column rule. Flat silhouette style only, no realism, no faces, no text other than the panel numbers.

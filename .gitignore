@@ -1,0 +1,33 @@
+# secrets
+.env
+*.env
+*.pem
+*.key
+
+# run output and media (code-only repo)
+output/
+renders/
+logs/
+*.log
+*.mp4
+*.mov
+*.webm
+*.mkv
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.gif
+*.mp3
+*.wav
+*.m4a
+
+# model weights (tools/cast_map.py fetches the two OpenCV Zoo face models into models/)
+models/
+*.onnx
+
+# deps and caches
+node_modules/
+.venv/
+venv/
+__pycache__/

@@ -1,0 +1,15 @@
+[16:9 DRAFT — orchestrator review before paid gen]
+Create a HORIZONTAL 4x4 storyboard grid (16 panels), each panel a WIDE 16:9 landscape cell, with thin black borders and a small bold number 1-16 in the top-left corner. Minimalist FLAT 2D SILHOUETTE style: an {{PALETTE_HERO}} silhouette of a DRAGON RIDER — a small tribal rider mounted on a large winged dragon, read as ONE unit — flying low and fast through a sky of catastrophe: a storm-dark sky above an erupting volcanic massif, colossal burning debris, molten boulders and {{PALETTE_ENEMY}} shockwaves hurled UP from a titanic eruption below. No fine detail, no faces.
+
+CRITICAL COMPOSITION RULE for every panel: WIDE horizontal frames using full width and DEPTH; a 3RD-PERSON FOLLOW-CAM tracking the dragon from BEHIND or ALONGSIDE as it threads the narrow gaps between MASSIVE incoming impacts — molten boulders, debris and shockwave-rings whipping past at the frame edges, strong perspective lines and depth rushing past, heavy motion streaks. Lateral speed across the frame, foreground blur. The dragon weaves a tight evasive flight path; the threat is the colossal impacts hurled up from BELOW. Not a static centered stack.
+
+- Panel 1: COLD OPEN at FULL SPEED — follow-cam close behind the dragon as it banks hard to slip past a colossal molten boulder filling half the frame, the rider low in the saddle, {{PALETTE_HERO}} firelight glowing at the dragon's throat, the erupting volcano rushing past below. Immediate motion and danger — this is the hook.
+- Panels 2-3: the dragon dives between two rising columns of {{PALETTE_ENEMY}} debris and looses a raking plume of {{PALETTE_HERO}} dragonfire at the burning slopes; camera chasing from behind, embers streaking past the lens.
+- Panels 4-5: a {{PALETTE_ENEMY}} shockwave-ring blasts UP toward them; the dragon rolls and weaves through the gap, shrapnel and sparks flying past the frame edges.
+- Panels 6-7: a tight bank around a tumbling colossal boulder — camera whipping to follow — the rider leaning hard into the turn as the dragon skims the molten surface.
+- Panels 8-10: the dragon threads a gauntlet of falling debris, breathing fire across the impacts; chunks shatter into {{PALETTE_HERO}}-lit fragments hurled laterally across the frame.
+- Panels 11-13: a near-miss — a HUGE {{PALETTE_ENEMY}} impact nearly catches them; the dragon barrel-rolls through the blast, fire and molten splinters blasting laterally across the frame.
+- Panels 14-15: the dragon climbs and wheels as an ENORMOUS {{PALETTE_ENEMY}} shockwave swells below, gathering a huge breath, {{PALETTE_HERO}} firelight building at its throat.
+- Panel 16 — END HOT: a colossal {{PALETTE_ENEMY}} blast surging UP at the lens as the dragon banks straight into it, {{PALETTE_HERO}} firelight at maximum at the dragon's throat, debris suspended at the edges, energy at maximum mid-motion — NOT a calm aftermath. This frame is what the next clip echoes and FREEZES.
+
+Vary behind-follow / alongside / extreme-close framings; keep the kinetic evasive-flythrough energy throughout. Flat silhouette only, no realism, no faces, no text other than the panel numbers.
