@@ -4,6 +4,8 @@
 two generated clips joined on a bridge frame, a local vision-model QA gate, and a package, with
 original characters only.**
 
+[![Storyboard, clips and QA scores: watch the result and the breakdown on mhfx.ai](media/poster.jpg)](https://mhfx.ai/systems/action-sequence-pipeline/)
+
 - **Spec in, sequence out.** A job spec names a heroine, an opponent, a fight style, a palette,
   and an environment. `make_video.js` builds the storyboards and both clips, joins them, scores the
   result, and writes a resumable state file after every stage.
